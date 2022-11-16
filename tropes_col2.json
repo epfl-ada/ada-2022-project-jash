@@ -1,0 +1,3008 @@
+[
+    {
+        "char": "Professor Philip Brainard",
+        "movie": "Flubber",
+        "id": "/m/0jy9q0",
+        "actor": "Robin Williams"
+    },
+    {
+        "char": "Professor Keenbean",
+        "movie": "Richie Rich",
+        "id": "/m/02vchl3",
+        "actor": "Michael McShane"
+    },
+    {
+        "char": "Dr. Reinhardt Lane",
+        "movie": "The Shadow",
+        "id": "/m/0k6fkc",
+        "actor": "Ian McKellen"
+    },
+    {
+        "char": "Dr. Harold Medford",
+        "movie": "Them!",
+        "id": "/m/0k6_br",
+        "actor": "Edmund Gwenn"
+    },
+    {
+        "char": "Daniel Jackson",
+        "movie": "Stargate",
+        "id": "/m/0k3rhh",
+        "actor": "James Spader"
+    },
+    {
+        "char": "Indiana Jones",
+        "movie": "Indiana Jones and the Kingdom of the Crystal Skull",
+        "id": "/m/0jzx78",
+        "actor": "Harrison Ford"
+    },
+    {
+        "char": "Indiana Jones",
+        "movie": "Indiana Jones and the Raiders of the Lost Ark",
+        "id": "/m/0k294p",
+        "actor": "Harrison Ford"
+    },
+    {
+        "char": "Indiana Jones",
+        "movie": "Indiana Jones and the Temple of Doom",
+        "id": "/m/0jzx9b",
+        "actor": "Harrison Ford"
+    },
+    {
+        "char": "Evelyn Carnahan-O'Connell",
+        "movie": "The Mummy",
+        "id": "/m/0k5yzc",
+        "actor": "Rachel Weisz"
+    },
+    {
+        "char": "Han",
+        "movie": "Enter the Dragon",
+        "id": "/m/02vd8hn",
+        "actor": "Shih Kien"
+    },
+    {
+        "char": "Johnny Lawrence",
+        "movie": "The Karate Kid",
+        "id": "/m/0k5jyf",
+        "actor": "William Zabka"
+    },
+    {
+        "char": "Jen Yu",
+        "movie": "Crouching Tiger, Hidden Dragon",
+        "id": "/m/0jwv09",
+        "actor": "Zhang Ziyi"
+    },
+    {
+        "char": "Pai Mei",
+        "movie": "Kill Bill Volume 2",
+        "id": "/m/0gz3h92",
+        "actor": "Chia Hui Liu"
+    },
+    {
+        "char": "Apollo Creed",
+        "movie": "Rocky",
+        "id": "/m/0k2n0d",
+        "actor": "Carl Weathers"
+    },
+    {
+        "char": "Clubber Lang",
+        "movie": "Rocky III",
+        "id": "/m/0k2n56",
+        "actor": "Mr. T"
+    },
+    {
+        "char": "Storm Shadow",
+        "movie": "G.I. Joe: The Rise of Cobra",
+        "id": "/m/052dfd5",
+        "actor": "Lee Byung-Hun"
+    },
+    {
+        "char": "Kurgan",
+        "movie": "Highlander",
+        "id": "/m/02214xq",
+        "actor": "Clancy Brown"
+    },
+    {
+        "char": "Anakin Skywalker",
+        "movie": "Star Wars Episode III: Revenge of the Sith",
+        "id": "/m/02sg5ry",
+        "actor": "Hayden Christensen"
+    },
+    {
+        "char": "Guy Perkins",
+        "movie": "Never Been Kissed",
+        "id": "/m/02vbkvz",
+        "actor": "Jeremy Jordan"
+    },
+    {
+        "char": "John Tucker",
+        "movie": "John Tucker Must Die",
+        "id": "/m/0j_6gm",
+        "actor": "Jesse Metcalfe"
+    },
+    {
+        "char": "Woody Deane",
+        "movie": "It's a Boy Girl Thing",
+        "id": "/m/02vc983",
+        "actor": "Kevin Zegers"
+    },
+    {
+        "char": "Van Wilder",
+        "movie": "National Lampoon's Van Wilder",
+        "id": "/m/0k14rv",
+        "actor": "Ryan Reynolds"
+    },
+    {
+        "char": "Paul Metzler",
+        "movie": "Election",
+        "id": "/m/02vdf9d",
+        "actor": "Chris Klein"
+    },
+    {
+        "char": "Troy Bolton",
+        "movie": "High School Musical",
+        "id": "/m/0jzdys",
+        "actor": "Zac Efron"
+    },
+    {
+        "char": "Mike Dexter",
+        "movie": "Can't Hardly Wait",
+        "id": "/m/03jsnmf",
+        "actor": "Peter Facinelli"
+    },
+    {
+        "char": "Man with No Name",
+        "movie": "For a Few Dollars More",
+        "id": "/m/0jybsq",
+        "actor": "Clint Eastwood"
+    },
+    {
+        "char": "Josey Wales",
+        "movie": "The Outlaw Josey Wales",
+        "id": "/m/0k61jr",
+        "actor": "Clint Eastwood"
+    },
+    {
+        "char": "Jellon Lamb",
+        "movie": "The Proposition",
+        "id": "/m/06wh7_d",
+        "actor": "John Hurt"
+    },
+    {
+        "char": "Beck",
+        "movie": "The Rundown",
+        "id": "/m/0k6bqx",
+        "actor": "The Rock"
+    },
+    {
+        "char": "Rick Deckard",
+        "movie": "Blade Runner",
+        "id": "/m/0jvhbm",
+        "actor": "Harrison Ford"
+    },
+    {
+        "char": "Leonard Smalls",
+        "movie": "Raising Arizona",
+        "id": "/m/02vbtgt",
+        "actor": "Randall \"Tex\" Cobb"
+    },
+    {
+        "char": "Jack Walsh",
+        "movie": "Midnight Run",
+        "id": "/m/0k0n9r",
+        "actor": "Robert De Niro"
+    },
+    {
+        "char": "Milo Boyd",
+        "movie": "The Bounty Hunter",
+        "id": "/m/0772tb3",
+        "actor": "Gerard Butler"
+    },
+    {
+        "char": "Toombs",
+        "movie": "The Chronicles of Riddick",
+        "id": "/m/0k4qdz",
+        "actor": "Nick Chinlund"
+    },
+    {
+        "char": "Nick Randall",
+        "movie": "Wanted: Dead or Alive",
+        "id": "/m/03jsm0f",
+        "actor": "Rutger Hauer"
+    },
+    {
+        "char": "Gemma Honeycutt",
+        "movie": "Fool's Gold",
+        "id": "/m/04dddz5",
+        "actor": "Alexis Dziena"
+    },
+    {
+        "char": "Matt Mateo",
+        "movie": "The Opposite of Sex",
+        "id": "/m/02tbdw7",
+        "actor": "Ivan Sergei"
+    },
+    {
+        "char": "Paul Metzler",
+        "movie": "Election",
+        "id": "/m/02vdf9d",
+        "actor": "Chris Klein"
+    },
+    {
+        "char": "Shelley Darlingson",
+        "movie": "The House Bunny",
+        "id": "/m/04dgw4t",
+        "actor": "Anna Faris"
+    },
+    {
+        "char": "Brace Channing",
+        "movie": "My Favorite Martian",
+        "id": "/m/03lvf22",
+        "actor": "Elizabeth Hurley"
+    },
+    {
+        "char": "Mia",
+        "movie": "Stan Helsing",
+        "id": "/m/0gc3g1p",
+        "actor": "Desi Lydic"
+    },
+    {
+        "char": "Marcia Brady",
+        "movie": "The Brady Bunch Movie",
+        "id": "/m/0k4k_5",
+        "actor": "Christine Taylor"
+    },
+    {
+        "char": "Chris",
+        "movie": "Roxanne",
+        "id": "/m/0k2q15",
+        "actor": "Rick Rossovich"
+    },
+    {
+        "char": "Buffy Summers",
+        "movie": "Buffy the Vampire Slayer",
+        "id": "/m/0jvy0r",
+        "actor": "Kristy Swanson"
+    },
+    {
+        "char": "Brad",
+        "movie": "Extract",
+        "id": "/m/0b3trzf",
+        "actor": "Dustin Milligan"
+    },
+    {
+        "char": "Jack Bartlett",
+        "movie": "Sugar & Spice",
+        "id": "/m/0cg2m9s",
+        "actor": "James Marsden"
+    },
+    {
+        "char": "Maggie Feller",
+        "movie": "In Her Shoes",
+        "id": "/m/0jzvtp",
+        "actor": "Cameron Diaz"
+    },
+    {
+        "char": "Chelsea Deardon",
+        "movie": "Legal Eagles",
+        "id": "/m/0j_wlm",
+        "actor": "Daryl Hannah"
+    },
+    {
+        "char": "Mad Hatter",
+        "movie": "Alice in Wonderland",
+        "id": "/m/04q4dng",
+        "actor": "Johnny Depp"
+    },
+    {
+        "char": "Nicole Oakley",
+        "movie": "Crazy/Beautiful",
+        "id": "/m/0jwrqb",
+        "actor": "Kirsten Dunst"
+    },
+    {
+        "char": "Annie Newton",
+        "movie": "The Invisible",
+        "id": "/m/02tbbww",
+        "actor": "Margarita Levieva"
+    },
+    {
+        "char": "Nina Sayers",
+        "movie": "Black Swan",
+        "id": "/m/0cccx3m",
+        "actor": "Natalie Portman"
+    },
+    {
+        "char": "Randal Graves",
+        "movie": "Clerks.",
+        "id": "/m/0jwj18",
+        "actor": "Jeff Anderson"
+    },
+    {
+        "char": "Randal Graves",
+        "movie": "Clerks II",
+        "id": "/m/09vvrb_",
+        "actor": "Jeff Anderson"
+    },
+    {
+        "char": "Brodie Bruce",
+        "movie": "Mallrats",
+        "id": "/m/07ldy8x",
+        "actor": "Jason Lee"
+    },
+    {
+        "char": "Banky Edwards",
+        "movie": "Chasing Amy",
+        "id": "/m/05ckj7h",
+        "actor": "Jason Lee"
+    },
+    {
+        "char": "Ed",
+        "movie": "Shaun of the Dead",
+        "id": "/m/0k35nb",
+        "actor": "Nick Frost"
+    },
+    {
+        "char": "Hellboy",
+        "movie": "Hellboy: Blood and Iron",
+        "id": "/m/0jzb66",
+        "actor": "Ron Perlman"
+    },
+    {
+        "char": "Tron",
+        "movie": "Tron",
+        "id": "/m/0hcfdd1",
+        "actor": "Bruce Boxleitner"
+    },
+    {
+        "char": "James Bond",
+        "movie": "Casino Royale",
+        "id": "/m/02hw79s",
+        "actor": "Daniel Craig"
+    },
+    {
+        "char": "Biff Tannen",
+        "movie": "Back to the Future",
+        "id": "/m/0jty60",
+        "actor": "Thomas F. Wilson"
+    },
+    {
+        "char": "Scut Farkus",
+        "movie": "A Christmas Story",
+        "id": "/m/0jsprx",
+        "actor": "Zack Ward"
+    },
+    {
+        "char": "Vanessa",
+        "movie": "The Grudge 2",
+        "id": "/m/0k592n",
+        "actor": "Teresa Palmer"
+    },
+    {
+        "char": "Jake LaMotta",
+        "movie": "Raging Bull",
+        "id": "/m/0k28_g",
+        "actor": "Robert De Niro"
+    },
+    {
+        "char": "James Bond",
+        "movie": "Casino Royale",
+        "id": "/m/02hw79s",
+        "actor": "Daniel Craig"
+    },
+    {
+        "char": "Travis Bickle",
+        "movie": "Taxi Driver",
+        "id": "/m/0k43s9",
+        "actor": "Robert De Niro"
+    },
+    {
+        "char": "Anakin Skywalker",
+        "movie": "Star Wars Episode III: Revenge of the Sith",
+        "id": "/m/02sg5ry",
+        "actor": "Hayden Christensen"
+    },
+    {
+        "char": "Martin Q. Blank",
+        "movie": "Grosse Pointe Blank",
+        "id": "/m/0jz0wk",
+        "actor": "John Cusack"
+    },
+    {
+        "char": "Brand Hauser",
+        "movie": "War Inc.",
+        "id": "/m/02vczvr",
+        "actor": "John Cusack"
+    },
+    {
+        "char": "Cobb",
+        "movie": "Inception",
+        "id": "/m/0667g_f",
+        "actor": "Leonardo DiCaprio"
+    },
+    {
+        "char": "Achilles",
+        "movie": "Troy",
+        "id": "/m/0k7ckp",
+        "actor": "Brad Pitt"
+    },
+    {
+        "char": "Britt Reid",
+        "movie": "The Green Hornet",
+        "id": "/m/0h5m_9x",
+        "actor": "Seth Rogen"
+    },
+    {
+        "char": "Donnie Darko",
+        "movie": "Donnie Darko",
+        "id": "/m/0jxftx",
+        "actor": "Jake Gyllenhaal"
+    },
+    {
+        "char": "Captain Jack Sparrow",
+        "movie": "Pirates of the Caribbean: Dead Man's Chest",
+        "id": "/m/0k1xxm",
+        "actor": "Johnny Depp"
+    },
+    {
+        "char": "John Wilmot, 2nd Earl of Rochester",
+        "movie": "The Libertine",
+        "id": "/m/0k5ptk",
+        "actor": "Johnny Depp"
+    },
+    {
+        "char": "Robert Angier",
+        "movie": "The Prestige",
+        "id": "/m/0k65k8",
+        "actor": "Hugh Jackman"
+    },
+    {
+        "char": "Tony Stark",
+        "movie": "Iron Man",
+        "id": "/m/0j1__hv",
+        "actor": "Robert Downey Jr."
+    },
+    {
+        "char": "Loki",
+        "movie": "Thor",
+        "id": "/m/0855mjk",
+        "actor": "Tom Hiddleston"
+    },
+    {
+        "char": "Lenny Nero",
+        "movie": "Strange Days",
+        "id": "/m/0k3tt_",
+        "actor": "Ralph Fiennes"
+    },
+    {
+        "char": "Bill 'The Butcher' Cutting",
+        "movie": "Gangs of New York",
+        "id": "/m/0jynbm",
+        "actor": "Daniel Day-Lewis"
+    },
+    {
+        "char": "Giacomo Casanova",
+        "movie": "Casanova",
+        "id": "/m/0jw4mw",
+        "actor": "Heath Ledger"
+    },
+    {
+        "char": "Telly",
+        "movie": "Kids",
+        "id": "/m/0j_flm",
+        "actor": "Leo Fitzpatrick"
+    },
+    {
+        "char": "Tony Stark",
+        "movie": "Iron Man",
+        "id": "/m/0j1__hv",
+        "actor": "Robert Downey Jr."
+    },
+    {
+        "char": "Dorian Gray",
+        "movie": "The League of Extraordinary Gentlemen",
+        "id": "/m/0dkcy1f",
+        "actor": "Stuart Townsend"
+    },
+    {
+        "char": "John Wilmot, 2nd Earl of Rochester",
+        "movie": "The Libertine",
+        "id": "/m/0k5ptk",
+        "actor": "Johnny Depp"
+    },
+    {
+        "char": "Timothy",
+        "movie": "The Long Kiss Goodnight",
+        "id": "/m/02vch3p",
+        "actor": "Craig Bierko"
+    },
+    {
+        "char": "Johnny Wickham",
+        "movie": "Bride and Prejudice",
+        "id": "/m/0cf_wtd",
+        "actor": "Daniel Gillies"
+    },
+    {
+        "char": "Jessica Rabbit",
+        "movie": "Who Framed Roger Rabbit",
+        "id": "/m/02wszk9",
+        "actor": "Kathleen Turner"
+    },
+    {
+        "char": "Tina Carlyle",
+        "movie": "The Mask",
+        "id": "/m/0k5wls",
+        "actor": "Cameron Diaz"
+    },
+    {
+        "char": "Susie Diamond",
+        "movie": "The Fabulous Baker Boys",
+        "id": "/m/0k50tl",
+        "actor": "Michelle Pfeiffer"
+    },
+    {
+        "char": "Sugar Kane Kowalczyk",
+        "movie": "Some Like It Hot",
+        "id": "/m/0k3j8v",
+        "actor": "Marilyn Monroe"
+    },
+    {
+        "char": "Dorothy Vallens",
+        "movie": "Blue Velvet",
+        "id": "/m/0jvlc4",
+        "actor": "Isabella Rossellini"
+    },
+    {
+        "char": "Ellen Aim",
+        "movie": "Streets of Fire",
+        "id": "/m/0k3w12",
+        "actor": "Diane Lane"
+    },
+    {
+        "char": "James Bond",
+        "movie": "Casino Royale",
+        "id": "/m/02hw79s",
+        "actor": "Daniel Craig"
+    },
+    {
+        "char": "Han Solo",
+        "movie": "Star Wars Episode IV: A New Hope",
+        "id": "/m/0k3r1_",
+        "actor": "Harrison Ford"
+    },
+    {
+        "char": "Captain Jack Sparrow",
+        "movie": "Pirates of the Caribbean: Dead Man's Chest",
+        "id": "/m/0k1xxm",
+        "actor": "Johnny Depp"
+    },
+    {
+        "char": "Frank Abagnale Jr.",
+        "movie": "Catch Me If You Can",
+        "id": "/m/0jw5pq",
+        "actor": "Leonardo DiCaprio"
+    },
+    {
+        "char": "Harold Hill",
+        "movie": "The Music Man",
+        "id": "/m/04hv61w",
+        "actor": "Matthew Broderick"
+    },
+    {
+        "char": "Flynn Rider",
+        "movie": "Tangled",
+        "id": "/m/07sl05m",
+        "actor": "Zachary Levi"
+    },
+    {
+        "char": "Hannibal Lecter",
+        "movie": "The Silence of the Lambs",
+        "id": "/m/0k6g86",
+        "actor": "Anthony Hopkins"
+    },
+    {
+        "char": "Anakin Skywalker",
+        "movie": "Star Wars Episode I: The Phantom Menace",
+        "id": "/m/02sg5rn",
+        "actor": "Jake Lloyd"
+    },
+    {
+        "char": "Chris Knight",
+        "movie": "Real Genius",
+        "id": "/m/0k2ckt",
+        "actor": "Val Kilmer"
+    },
+    {
+        "char": "Danielle Foussard",
+        "movie": "To Catch a Thief",
+        "id": "/m/02vbgd1",
+        "actor": "Brigitte Auber"
+    },
+    {
+        "char": "Frank Martin",
+        "movie": "The Transporter",
+        "id": "/m/0k6r5t",
+        "actor": "Jason Statham"
+    },
+    {
+        "char": "Agent Smith",
+        "movie": "The Matrix",
+        "id": "/m/0k5wz1",
+        "actor": "Hugo Weaving"
+    },
+    {
+        "char": "The Professor",
+        "movie": "The Bourne Identity",
+        "id": "/m/0k4kdl",
+        "actor": "Clive Owen"
+    },
+    {
+        "char": "Sam 'Ace' Rothstein",
+        "movie": "Casino",
+        "id": "/m/0jw4vx",
+        "actor": "Robert De Niro"
+    },
+    {
+        "char": "Dick Jones",
+        "movie": "RoboCop",
+        "id": "/m/0k2m8v",
+        "actor": "Ronny Cox"
+    },
+    {
+        "char": "Cutler Beckett",
+        "movie": "Pirates of the Caribbean: Dead Man's Chest",
+        "id": "/m/0k1xyw",
+        "actor": "Tom Hollander"
+    },
+    {
+        "char": "Cutler Beckett",
+        "movie": "Pirates of the Caribbean: At World's End",
+        "id": "/m/0k1xwx",
+        "actor": "Tom Hollander"
+    },
+    {
+        "char": "Max Zorin",
+        "movie": "A View to a Kill",
+        "id": "/m/02xl2ny",
+        "actor": "Christopher Walken"
+    },
+    {
+        "char": "Carter Burke",
+        "movie": "Aliens",
+        "id": "/m/0jt8n6",
+        "actor": "Paul Reiser"
+    },
+    {
+        "char": "Noah Cross",
+        "movie": "Chinatown",
+        "id": "/m/0jwcjw",
+        "actor": "John Huston"
+    },
+    {
+        "char": "Doctor Doom",
+        "movie": "Fantastic Four",
+        "id": "/m/0jy24c",
+        "actor": "Julian McMahon"
+    },
+    {
+        "char": "Kingpin",
+        "movie": "Daredevil",
+        "id": "/m/0jwz5q",
+        "actor": "Michael Clarke Duncan"
+    },
+    {
+        "char": "Judge Doom",
+        "movie": "Who Framed Roger Rabbit",
+        "id": "/m/0k81j_",
+        "actor": "Christopher Lloyd"
+    },
+    {
+        "char": "Conal Cochran",
+        "movie": "Halloween III: Season of the Witch",
+        "id": "/m/0jz33w",
+        "actor": "Dan O'Herlihy"
+    },
+    {
+        "char": "Mayor Augustus Maywho",
+        "movie": "How the Grinch Stole Christmas!",
+        "id": "/m/0jzmfp",
+        "actor": "Jeffrey Tambor"
+    },
+    {
+        "char": "Henry F. Potter",
+        "movie": "It's a Wonderful Life",
+        "id": "/m/0j_11c",
+        "actor": "Lionel Barrymore"
+    },
+    {
+        "char": "Royalton",
+        "movie": "Speed Racer",
+        "id": "/m/03jqz37",
+        "actor": "Roger Allam"
+    },
+    {
+        "char": "B.Z.",
+        "movie": "Santa Claus: The Movie",
+        "id": "/m/0k2w67",
+        "actor": "John Lithgow"
+    },
+    {
+        "char": "Les Grossman",
+        "movie": "Tropic Thunder",
+        "id": "/m/0gyjwgg",
+        "actor": "Tom Cruise"
+    },
+    {
+        "char": "James McCullen - 1641",
+        "movie": "G.I. Joe: The Rise of Cobra",
+        "id": "/m/0h5q191",
+        "actor": "David Murray"
+    },
+    {
+        "char": "Ed Dillinger",
+        "movie": "Tron",
+        "id": "/m/0k7cbx",
+        "actor": "David Warner"
+    },
+    {
+        "char": "Ian Hawke",
+        "movie": "Alvin and the Chipmunks",
+        "id": "/m/03kyztz",
+        "actor": "David Cross"
+    },
+    {
+        "char": "Jack Bennett",
+        "movie": "Edge of Darkness",
+        "id": "/m/08cwjsb",
+        "actor": "Danny Huston"
+    },
+    {
+        "char": "Charles Travis",
+        "movie": "Congo",
+        "id": "/m/02vclwl",
+        "actor": "Bruce Campbell"
+    },
+    {
+        "char": "Gary Winston",
+        "movie": "Antitrust",
+        "id": "/m/02vbk_v",
+        "actor": "Tim Robbins"
+    },
+    {
+        "char": "Dietrich Banning",
+        "movie": "The Tuxedo",
+        "id": "/m/0cgn58l",
+        "actor": "Ritchie Coster"
+    },
+    {
+        "char": "Ratchet",
+        "movie": "Robots",
+        "id": "/m/0k2mmy",
+        "actor": "Greg Kinnear"
+    },
+    {
+        "char": "Beni Gabor",
+        "movie": "The Mummy",
+        "id": "/m/03jskk3",
+        "actor": "Kevin J. O'Connor"
+    },
+    {
+        "char": "Lt. Roget / Singing man",
+        "movie": "Paths of Glory",
+        "id": "/m/0cc_884",
+        "actor": "Wayne Morris"
+    },
+    {
+        "char": "Captain Jack Sparrow",
+        "movie": "Pirates of the Caribbean: Dead Man's Chest",
+        "id": "/m/0k1xxm",
+        "actor": "Johnny Depp"
+    },
+    {
+        "char": "Carter Burke",
+        "movie": "Aliens",
+        "id": "/m/0jt8n6",
+        "actor": "Paul Reiser"
+    },
+    {
+        "char": "Ike Clanton",
+        "movie": "Tombstone",
+        "id": "/m/0cg418l",
+        "actor": "Stephen Lang"
+    },
+    {
+        "char": "Cpl. Timothy P. Upham",
+        "movie": "Saving Private Ryan",
+        "id": "/m/040qvsz",
+        "actor": "Jeremy Davies"
+    },
+    {
+        "char": "Jake LaMotta",
+        "movie": "Raging Bull",
+        "id": "/m/0k28_g",
+        "actor": "Robert De Niro"
+    },
+    {
+        "char": "Sir Alfred De Carter",
+        "movie": "Unfaithfully Yours",
+        "id": "/m/02vct43",
+        "actor": "Rex Harrison"
+    },
+    {
+        "char": "Heathcliff",
+        "movie": "Wuthering Heights",
+        "id": "/m/0k86mc",
+        "actor": "Laurence Olivier"
+    },
+    {
+        "char": "Alisdair Stewart",
+        "movie": "The Piano",
+        "id": "/m/0k63tb",
+        "actor": "Sam Neill"
+    },
+    {
+        "char": "Dr. Stephen Fleming",
+        "movie": "Damage",
+        "id": "/m/0jwy3x",
+        "actor": "Jeremy Irons"
+    },
+    {
+        "char": "Otto",
+        "movie": "A Fish Called Wanda",
+        "id": "/m/0jsqxv",
+        "actor": "Kevin Kline"
+    },
+    {
+        "char": "Frank N. Furter",
+        "movie": "The Rocky Horror Picture Show",
+        "id": "/m/0k69_1",
+        "actor": "Tim Curry"
+    },
+    {
+        "char": "David McCall",
+        "movie": "Fear",
+        "id": "/m/0jy3_h",
+        "actor": "Mark Wahlberg"
+    },
+    {
+        "char": "Bud White",
+        "movie": "L.A. Confidential",
+        "id": "/m/0j_n0t",
+        "actor": "Russell Crowe"
+    },
+    {
+        "char": "Tony Montana",
+        "movie": "Scarface",
+        "id": "/m/02_8_nx",
+        "actor": "Al Pacino"
+    },
+    {
+        "char": "Martin Burney",
+        "movie": "Sleeping with the Enemy",
+        "id": "/m/0k3ddh",
+        "actor": "Patrick Bergin"
+    },
+    {
+        "char": "Sam 'Ace' Rothstein",
+        "movie": "Casino",
+        "id": "/m/0jw4vx",
+        "actor": "Robert De Niro"
+    },
+    {
+        "char": "Tommy DeVito",
+        "movie": "Goodfellas",
+        "id": "/m/0jyytb",
+        "actor": "Joe Pesci"
+    },
+    {
+        "char": "John Lotter",
+        "movie": "Boys Don't Cry",
+        "id": "/m/0jvqzw",
+        "actor": "Peter Sarsgaard"
+    },
+    {
+        "char": "Jake McKenna",
+        "movie": "U Turn",
+        "id": "/m/0k7gxk",
+        "actor": "Nick Nolte"
+    },
+    {
+        "char": "Duke of Monroth",
+        "movie": "Moulin Rouge!",
+        "id": "/m/0k0vyn",
+        "actor": "Richard Roxburgh"
+    },
+    {
+        "char": "Bill",
+        "movie": "Kill Bill Volume 1",
+        "id": "/m/0j_fvv",
+        "actor": "David Carradine"
+    },
+    {
+        "char": "Bobby Tennison",
+        "movie": "No One Would Tell",
+        "id": "/m/0g9k2p6",
+        "actor": "Fred Savage"
+    },
+    {
+        "char": "Johnny Farrell",
+        "movie": "Gilda",
+        "id": "/m/0jysmq",
+        "actor": "Glenn Ford"
+    },
+    {
+        "char": "Takeo",
+        "movie": "The Grudge",
+        "id": "/m/0hgc9dq",
+        "actor": "Takashi Matsuyama"
+    },
+    {
+        "char": "Guy",
+        "movie": "Swimming with Sharks",
+        "id": "/m/021_h9h",
+        "actor": "Frank Whaley"
+    },
+    {
+        "char": "Blue",
+        "movie": "Sucker Punch",
+        "id": "/m/0850_tx",
+        "actor": "Oscar Isaac"
+    },
+    {
+        "char": "Tony Wendice",
+        "movie": "Dial M for Murder",
+        "id": "/m/0jx7qr",
+        "actor": "Ray Milland"
+    },
+    {
+        "char": "Steven Taylor",
+        "movie": "A Perfect Murder",
+        "id": "/m/0jsw40",
+        "actor": "Michael Douglas"
+    },
+    {
+        "char": "Geoffrey Clifton",
+        "movie": "The English Patient",
+        "id": "/m/0k4_tz",
+        "actor": "Colin Firth"
+    },
+    {
+        "char": "Harlan Ogilvy",
+        "movie": "War of the Worlds",
+        "id": "/m/0k7w6s",
+        "actor": "Tim Robbins"
+    },
+    {
+        "char": "Eli",
+        "movie": "The Book of Eli",
+        "id": "/m/05nv915",
+        "actor": "Denzel Washington"
+    },
+    {
+        "char": "Marvin Boggs",
+        "movie": "Red",
+        "id": "/m/0b7n5zy",
+        "actor": "John Malkovich"
+    },
+    {
+        "char": "James Bond",
+        "movie": "Casino Royale",
+        "id": "/m/02hw79s",
+        "actor": "Daniel Craig"
+    },
+    {
+        "char": "Dorian Gray",
+        "movie": "The League of Extraordinary Gentlemen",
+        "id": "/m/0dkcy1f",
+        "actor": "Stuart Townsend"
+    },
+    {
+        "char": "Everett Hitch",
+        "movie": "Appaloosa",
+        "id": "/m/04601vx",
+        "actor": "Viggo Mortensen"
+    },
+    {
+        "char": "Leopold",
+        "movie": "Kate & Leopold",
+        "id": "/m/02tb9_v",
+        "actor": "Hugh Jackman"
+    },
+    {
+        "char": "Hannibal Lecter",
+        "movie": "The Silence of the Lambs",
+        "id": "/m/0k6g86",
+        "actor": "Anthony Hopkins"
+    },
+    {
+        "char": "Ghost Dog",
+        "movie": "Ghost Dog: The Way of the Samurai",
+        "id": "/m/0jyr6h",
+        "actor": "Forest Whitaker"
+    },
+    {
+        "char": "Dupont",
+        "movie": "Equilibrium",
+        "id": "/m/0jxwqx",
+        "actor": "Angus Macfadyen"
+    },
+    {
+        "char": "Arthur Burns",
+        "movie": "The Proposition",
+        "id": "/m/0k66rt",
+        "actor": "Danny Huston"
+    },
+    {
+        "char": "Richard Vernon",
+        "movie": "The Breakfast Club",
+        "id": "/m/0k4l6b",
+        "actor": "Paul Gleason"
+    },
+    {
+        "char": "Ed Rooney",
+        "movie": "Ferris Bueller's Day Off",
+        "id": "/m/0jy52w",
+        "actor": "Jeffrey Jones"
+    },
+    {
+        "char": "Mr. Nolan",
+        "movie": "Dead Poets Society",
+        "id": "/m/0jx21w",
+        "actor": "Norman Lloyd"
+    },
+    {
+        "char": "Dean Richmond",
+        "movie": "The Nutty Professor",
+        "id": "/m/0k60j5",
+        "actor": "Larry Miller"
+    },
+    {
+        "char": "Alonzo",
+        "movie": "Training Day",
+        "id": "/m/0k79b3",
+        "actor": "Denzel Washington"
+    },
+    {
+        "char": "Dennis Peck",
+        "movie": "Internal Affairs",
+        "id": "/m/0jzyzv",
+        "actor": "Richard Gere"
+    },
+    {
+        "char": "Colin Sullivan",
+        "movie": "The Departed",
+        "id": "/m/0k4xjq",
+        "actor": "Matt Damon"
+    },
+    {
+        "char": "Police Captain Hank Quinlan",
+        "movie": "Touch of Evil",
+        "id": "/m/0k78gf",
+        "actor": "Orson Welles"
+    },
+    {
+        "char": "Rooster",
+        "movie": "Righteous Kill",
+        "id": "/m/02vcq3r",
+        "actor": "Al Pacino"
+    },
+    {
+        "char": "Abel Turner",
+        "movie": "Lakeview Terrace",
+        "id": "/m/02tb650",
+        "actor": "Samuel L. Jackson"
+    },
+    {
+        "char": "The Lieutenant",
+        "movie": "Bad Lieutenant",
+        "id": "/m/0jtz28",
+        "actor": "Harvey Keitel"
+    },
+    {
+        "char": "Cher Horowitz",
+        "movie": "Clueless",
+        "id": "/m/0jwjsy",
+        "actor": "Alicia Silverstone"
+    },
+    {
+        "char": "Mr. Bean",
+        "movie": "Mr. Bean's Holiday",
+        "id": "/m/0jygqg",
+        "actor": "Rowan Atkinson"
+    },
+    {
+        "char": "Arthur Bach",
+        "movie": "Arthur",
+        "id": "/m/0ghdkxh",
+        "actor": "Russell Brand"
+    },
+    {
+        "char": "Nick",
+        "movie": "30 Minutes or Less",
+        "id": "/m/0gvd8dq",
+        "actor": "Jesse Eisenberg"
+    },
+    {
+        "char": "Henry Roth",
+        "movie": "50 First Dates",
+        "id": "/m/0jsll5",
+        "actor": "Adam Sandler"
+    },
+    {
+        "char": "Michael Newman",
+        "movie": "Click",
+        "id": "/m/0jwj2t",
+        "actor": "Adam Sandler"
+    },
+    {
+        "char": "Chuck Levine",
+        "movie": "I Now Pronounce You Chuck and Larry",
+        "id": "/m/02vbl__",
+        "actor": "Adam Sandler"
+    },
+    {
+        "char": "George McFly",
+        "movie": "Back to the Future",
+        "id": "/m/0jty5w",
+        "actor": "Crispin Glover"
+    },
+    {
+        "char": "Harry Dunne",
+        "movie": "Dumb & Dumber",
+        "id": "/m/0jxmxp",
+        "actor": "Jeff Daniels"
+    },
+    {
+        "char": "Belle",
+        "movie": "Beauty and the Beast: The Enchanted Christmas",
+        "id": "/m/0fprkm7",
+        "actor": "Paige O'Hara"
+    },
+    {
+        "char": "Stu Price",
+        "movie": "The Hangover",
+        "id": "/m/05srhg_",
+        "actor": "Ed Helms"
+    },
+    {
+        "char": "Gny. Sgt. Hartman",
+        "movie": "Full Metal Jacket",
+        "id": "/m/0jykjt",
+        "actor": "R. Lee Ermey"
+    },
+    {
+        "char": "Master Chief John James Urgayle",
+        "movie": "G.I. Jane",
+        "id": "/m/0jylf1",
+        "actor": "Viggo Mortensen"
+    },
+    {
+        "char": "Sgt. Hulka",
+        "movie": "Stripes",
+        "id": "/m/022108v",
+        "actor": "Warren Oates"
+    },
+    {
+        "char": "Sergeant Thomas Highway",
+        "movie": "Heartbreak Ridge",
+        "id": "/m/0jz8d6",
+        "actor": "Clint Eastwood"
+    },
+    {
+        "char": "Staff Sergeant Robert Barnes",
+        "movie": "Platoon",
+        "id": "/m/0k1yyt",
+        "actor": "Tom Berenger"
+    },
+    {
+        "char": "Maj. John Reisman",
+        "movie": "The Dirty Dozen: The Next Mission",
+        "id": "/m/0b78ft6",
+        "actor": "Lee Marvin"
+    },
+    {
+        "char": "Kitty Packard",
+        "movie": "Dinner at Eight",
+        "id": "/m/0jx9zj",
+        "actor": "Jean Harlow"
+    },
+    {
+        "char": "Cindy Campbell",
+        "movie": "Scary Movie 4",
+        "id": "/m/0k2y_7",
+        "actor": "Anna Faris"
+    },
+    {
+        "char": "Cindy Campbell",
+        "movie": "Scary Movie 3",
+        "id": "/m/0k2z05",
+        "actor": "Anna Faris"
+    },
+    {
+        "char": "Brandi",
+        "movie": "Observe and Report",
+        "id": "/m/059sp8v",
+        "actor": "Anna Faris"
+    },
+    {
+        "char": "Pola Debevoise",
+        "movie": "How to Marry a Millionaire",
+        "id": "/m/0jzmyb",
+        "actor": "Marilyn Monroe"
+    },
+    {
+        "char": "Romy White",
+        "movie": "Romy and Michele's High School Reunion",
+        "id": "/m/0k2p5c",
+        "actor": "Mira Sorvino"
+    },
+    {
+        "char": "Michele Weinberger",
+        "movie": "Romy and Michele's High School Reunion",
+        "id": "/m/0k2p5j",
+        "actor": "Lisa Kudrow"
+    },
+    {
+        "char": "Suzanne Stone Maretto",
+        "movie": "To Die For",
+        "id": "/m/0k75t3",
+        "actor": "Nicole Kidman"
+    },
+    {
+        "char": "Rocky Horror - A Creation",
+        "movie": "The Rocky Horror Picture Show",
+        "id": "/m/02tb6wq",
+        "actor": "Peter Hinwood"
+    },
+    {
+        "char": "Mia",
+        "movie": "Stan Helsing",
+        "id": "/m/0gc3g1p",
+        "actor": "Desi Lydic"
+    },
+    {
+        "char": "Lina Lamont",
+        "movie": "Singin' in the Rain",
+        "id": "/m/0k3b2r",
+        "actor": "Jean Hagen"
+    },
+    {
+        "char": "Lennie Pike",
+        "movie": "It's a Mad, Mad, Mad, Mad World",
+        "id": "/m/01z0cck",
+        "actor": "Jonathan Winters"
+    },
+    {
+        "char": "Mongo",
+        "movie": "Blazing Saddles",
+        "id": "/m/04w0vjn",
+        "actor": "Alex Karras"
+    },
+    {
+        "char": "Fezzik",
+        "movie": "The Princess Bride",
+        "id": "/m/0k65zh",
+        "actor": "Andr\u00e9 the Giant"
+    },
+    {
+        "char": "Karl Childers",
+        "movie": "Sling Blade",
+        "id": "/m/0k3dtt",
+        "actor": "Billy Bob Thornton"
+    },
+    {
+        "char": "Aughra",
+        "movie": "The Dark Crystal",
+        "id": "/m/02vbpft",
+        "actor": "Billie Whitelaw"
+    },
+    {
+        "char": "Mr. Kesuke Miyagi",
+        "movie": "The Karate Kid",
+        "id": "/m/0k5jxz",
+        "actor": "Pat Morita"
+    },
+    {
+        "char": "Yoda",
+        "movie": "Star Wars Episode V: The Empire Strikes Back",
+        "id": "/m/02sg6hm",
+        "actor": "Frank Oz"
+    },
+    {
+        "char": "Gandalf",
+        "movie": "The Lord of the Rings: The Fellowship of the Ring",
+        "id": "/m/0k5s9d",
+        "actor": "Ian McKellen"
+    },
+    {
+        "char": "Fin Raziel",
+        "movie": "Willow",
+        "id": "/m/0k837x",
+        "actor": "Patricia Hayes"
+    },
+    {
+        "char": "Clayton",
+        "movie": "Tarzan",
+        "id": "/m/0k42s4",
+        "actor": "Brian Blessed"
+    },
+    {
+        "char": "Gaston",
+        "movie": "Beauty and the Beast",
+        "id": "/m/0jv4jc",
+        "actor": "Richard White"
+    },
+    {
+        "char": "Charles Muntz",
+        "movie": "Up",
+        "id": "/m/045_c9z",
+        "actor": "Christopher Plummer"
+    },
+    {
+        "char": "John Wilson",
+        "movie": "White Hunter, Black Heart",
+        "id": "/m/0k818w",
+        "actor": "Clint Eastwood"
+    },
+    {
+        "char": "Victor Quartermaine",
+        "movie": "Wallace & Gromit: The Curse of the Were-Rabbit",
+        "id": "/m/0k7vr9",
+        "actor": "Ralph Fiennes"
+    },
+    {
+        "char": "The Predator",
+        "movie": "Predator 2",
+        "id": "/m/03lpp78",
+        "actor": "Kevin Peter Hall"
+    },
+    {
+        "char": "The Predator",
+        "movie": "Predator",
+        "id": "/m/0h34xg2",
+        "actor": "Peter Cullen"
+    },
+    {
+        "char": "Prince Yu",
+        "movie": "Curse of the Golden Flower",
+        "id": "/m/0gbxx9x",
+        "actor": "Junjie Qin"
+    },
+    {
+        "char": "Crown Prince Leopold",
+        "movie": "The Illusionist",
+        "id": "/m/0k5f_q",
+        "actor": "Rufus Sewell"
+    },
+    {
+        "char": "Commodus",
+        "movie": "Gladiator",
+        "id": "/m/0jytd4",
+        "actor": "Joaquin Phoenix"
+    },
+    {
+        "char": "Lord Nelson Rathbone",
+        "movie": "Shanghai Knights",
+        "id": "/m/02vd4f4",
+        "actor": "Aidan Gillen"
+    },
+    {
+        "char": "Prince Nuada",
+        "movie": "Hellboy 2: The Golden Army",
+        "id": "/m/04m9lhl",
+        "actor": "Luke Goss"
+    },
+    {
+        "char": "Nizam",
+        "movie": "Prince of Persia: The Sands of Time",
+        "id": "/m/04m5488",
+        "actor": "Ben Kingsley"
+    },
+    {
+        "char": "Prince Otwani",
+        "movie": "Sheena",
+        "id": "/m/0k36bq",
+        "actor": "Trevor Thomas"
+    },
+    {
+        "char": "Prince Humperdinck",
+        "movie": "The Princess Bride",
+        "id": "/m/0k65z0",
+        "actor": "Chris Sarandon"
+    },
+    {
+        "char": "Jim",
+        "movie": "Blazing Saddles",
+        "id": "/m/0jvhqr",
+        "actor": "Gene Wilder"
+    },
+    {
+        "char": "Bret Maverick",
+        "movie": "Maverick",
+        "id": "/m/0k0hyr",
+        "actor": "Mel Gibson"
+    },
+    {
+        "char": "Ned Nederlander",
+        "movie": "\u00a1Three Amigos!",
+        "id": "/m/0jshd9",
+        "actor": "Martin Short"
+    },
+    {
+        "char": "Harmonica",
+        "movie": "Once Upon a Time in the West",
+        "id": "/m/0k1j46",
+        "actor": "Charles Bronson"
+    },
+    {
+        "char": "Sheriff Woody",
+        "movie": "Toy Story",
+        "id": "/m/0k78tv",
+        "actor": "Tom Hanks"
+    },
+    {
+        "char": "Ben Wade",
+        "movie": "3:10 to Yuma",
+        "id": "/m/03hqy08",
+        "actor": "Russell Crowe"
+    },
+    {
+        "char": "RoboCop",
+        "movie": "RoboCop",
+        "id": "/m/0h5q82q",
+        "actor": "Peter Weller"
+    },
+    {
+        "char": "Capt. Mikhail Polenin",
+        "movie": "K-19: The Widowmaker",
+        "id": "/m/0j_9gv",
+        "actor": "Liam Neeson"
+    },
+    {
+        "char": "Capt. Nathan Cutting Brittles",
+        "movie": "She Wore a Yellow Ribbon",
+        "id": "/m/0k35w2",
+        "actor": "John Wayne"
+    },
+    {
+        "char": "Maximus Decimus Meridius",
+        "movie": "Gladiator",
+        "id": "/m/0jytc_",
+        "actor": "Russell Crowe"
+    },
+    {
+        "char": "Jack Aubrey",
+        "movie": "Master and Commander: The Far Side of the World",
+        "id": "/m/0k0h66",
+        "actor": "Russell Crowe"
+    },
+    {
+        "char": "Captain Benjamin L. Willard",
+        "movie": "Apocalypse Now",
+        "id": "/m/0jtp2f",
+        "actor": "Martin Sheen"
+    },
+    {
+        "char": "Captain of the 'Weser'",
+        "movie": "Das Boot",
+        "id": "/m/0j47kxy",
+        "actor": "G\u00fcnter Lamprecht"
+    },
+    {
+        "char": "Captain Nemo",
+        "movie": "The League of Extraordinary Gentlemen",
+        "id": "/m/0k5nrw",
+        "actor": "Naseeruddin Shah"
+    },
+    {
+        "char": "Capt. James 'Bugger' Staros",
+        "movie": "The Thin Red Line",
+        "id": "/m/0k6nwg",
+        "actor": "Elias Koteas"
+    },
+    {
+        "char": "Gen. Robert E. Lee",
+        "movie": "Gettysburg",
+        "id": "/m/0jyqwm",
+        "actor": "Martin Sheen"
+    },
+    {
+        "char": "General Kuribayashi",
+        "movie": "Letters from Iwo Jima",
+        "id": "/m/03jtctp",
+        "actor": "Ken Watanabe"
+    },
+    {
+        "char": "Lt. Commander Ron Hunter",
+        "movie": "Crimson Tide",
+        "id": "/m/0jwsnp",
+        "actor": "Denzel Washington"
+    },
+    {
+        "char": "Christopher Pike",
+        "movie": "Star Trek",
+        "id": "/m/03ld2yg",
+        "actor": "Bruce Greenwood"
+    },
+    {
+        "char": "Zordon",
+        "movie": "Mighty Morphin' Power Rangers: The Movie",
+        "id": "/m/0k0nmw",
+        "actor": "Nicholas Bell"
+    },
+    {
+        "char": "Wolfstan",
+        "movie": "Black Death",
+        "id": "/m/0cg03cg",
+        "actor": "John Lynch"
+    },
+    {
+        "char": "Major Henry West",
+        "movie": "28 Days Later",
+        "id": "/m/0jskmk",
+        "actor": "Christopher Eccleston"
+    },
+    {
+        "char": "Nancy Thompson",
+        "movie": "A Nightmare on Elm Street",
+        "id": "/m/0jsvgr",
+        "actor": "Heather Langenkamp"
+    },
+    {
+        "char": "Sidney Prescott",
+        "movie": "Scream",
+        "id": "/m/0k2_bc",
+        "actor": "Neve Campbell"
+    },
+    {
+        "char": "Ellen Ripley",
+        "movie": "Alien",
+        "id": "/m/0jt7sz",
+        "actor": "Sigourney Weaver"
+    },
+    {
+        "char": "Sarah Connor",
+        "movie": "The Terminator",
+        "id": "/m/0k6m_h",
+        "actor": "Linda Hamilton"
+    },
+    {
+        "char": "Laurie Strode",
+        "movie": "Halloween",
+        "id": "/m/0jz2x0",
+        "actor": "Jamie Lee Curtis"
+    },
+    {
+        "char": "Whitney Miller",
+        "movie": "Friday the 13th",
+        "id": "/m/04ls8ty",
+        "actor": "Amanda Righetti"
+    },
+    {
+        "char": "Tony Stark",
+        "movie": "Iron Man",
+        "id": "/m/0j1__hv",
+        "actor": "Robert Downey Jr."
+    },
+    {
+        "char": "Dr. Loveless",
+        "movie": "Wild Wild West",
+        "id": "/m/0k82tm",
+        "actor": "Kenneth Branagh"
+    },
+    {
+        "char": "Artemus Gordon",
+        "movie": "Wild Wild West",
+        "id": "/m/0k82tg",
+        "actor": "Kevin Kline"
+    },
+    {
+        "char": "Lewis",
+        "movie": "Meet the Robinsons",
+        "id": "/m/0k0kn_",
+        "actor": "Tom Selleck"
+    },
+    {
+        "char": "Anakin Skywalker",
+        "movie": "Star Wars Episode I: The Phantom Menace",
+        "id": "/m/02sg5rn",
+        "actor": "Jake Lloyd"
+    },
+    {
+        "char": "Ling Ling Fat",
+        "movie": "Forbidden City Cop",
+        "id": "/m/02vb6nv",
+        "actor": "Stephen Chow"
+    },
+    {
+        "char": "Lucius Fox",
+        "movie": "The Dark Knight",
+        "id": "/m/045yrqg",
+        "actor": "Morgan Freeman"
+    },
+    {
+        "char": "John Robie",
+        "movie": "To Catch a Thief",
+        "id": "/m/0k75r_",
+        "actor": "Cary Grant"
+    },
+    {
+        "char": "Sir Charles Lytton",
+        "movie": "The Pink Panther",
+        "id": "/m/0k63yr",
+        "actor": "David Niven"
+    },
+    {
+        "char": "Neil McCauley",
+        "movie": "Heat",
+        "id": "/m/0jz8sq",
+        "actor": "Robert De Niro"
+    },
+    {
+        "char": "Rodney Skinner",
+        "movie": "The League of Extraordinary Gentlemen",
+        "id": "/m/0k5ns5",
+        "actor": "Tony Curran"
+    },
+    {
+        "char": "Cobb",
+        "movie": "Inception",
+        "id": "/m/0667g_f",
+        "actor": "Leonardo DiCaprio"
+    },
+    {
+        "char": "Nick Wells",
+        "movie": "The Score",
+        "id": "/m/0k6d1f",
+        "actor": "Robert De Niro"
+    },
+    {
+        "char": "Beth",
+        "movie": "John Tucker Must Die",
+        "id": "/m/0j_6h2",
+        "actor": "Sophia Bush"
+    },
+    {
+        "char": "Jasper Palmer",
+        "movie": "Children of Men",
+        "id": "/m/0jwbh7",
+        "actor": "Michael Caine"
+    },
+    {
+        "char": "Max Dennison",
+        "movie": "Hocus Pocus",
+        "id": "/m/02vd92w",
+        "actor": "Omri Katz"
+    },
+    {
+        "char": "Lotte Schwartz",
+        "movie": "Being John Malkovich",
+        "id": "/m/0jv6mp",
+        "actor": "Cameron Diaz"
+    },
+    {
+        "char": "Ana Pascal",
+        "movie": "Stranger Than Fiction",
+        "id": "/m/0k3t_x",
+        "actor": "Maggie Gyllenhaal"
+    },
+    {
+        "char": "Ashley",
+        "movie": "Orange County",
+        "id": "/m/0k1m4g",
+        "actor": "Schuyler Fisk"
+    },
+    {
+        "char": "Sheldon Mopes",
+        "movie": "Death to Smoochy",
+        "id": "/m/0jx3b8",
+        "actor": "Edward Norton"
+    },
+    {
+        "char": "Bill Django",
+        "movie": "The Men Who Stare at Goats",
+        "id": "/m/06679y8",
+        "actor": "Jeff Bridges"
+    },
+    {
+        "char": "Max Goldman",
+        "movie": "Grumpy Old Men",
+        "id": "/m/02vcwz0",
+        "actor": "Walter Matthau"
+    },
+    {
+        "char": "Walt Kowalski",
+        "movie": "Gran Torino",
+        "id": "/m/059t435",
+        "actor": "Clint Eastwood"
+    },
+    {
+        "char": "Carl Fredricksen",
+        "movie": "Up",
+        "id": "/m/045_cb3",
+        "actor": "Ed Asner"
+    },
+    {
+        "char": "Howard Beale",
+        "movie": "Network",
+        "id": "/m/0k168v",
+        "actor": "Peter Finch"
+    },
+    {
+        "char": "Judge Elihu Smails",
+        "movie": "Caddyshack",
+        "id": "/m/04w0v_v",
+        "actor": "Ted Knight"
+    },
+    {
+        "char": "Sam Spade",
+        "movie": "The Maltese Falcon",
+        "id": "/m/04dmkpj",
+        "actor": "Humphrey Bogart"
+    },
+    {
+        "char": "Philip Marlowe",
+        "movie": "The Big Sleep",
+        "id": "/m/0k4gwm",
+        "actor": "Humphrey Bogart"
+    },
+    {
+        "char": "Dist. Atty. Martin Ferguson",
+        "movie": "The Enforcer",
+        "id": "/m/0k4_sm",
+        "actor": "Humphrey Bogart"
+    },
+    {
+        "char": "Capt. 'Rip' Murdock",
+        "movie": "Dead Reckoning",
+        "id": "/m/0jx253",
+        "actor": "Humphrey Bogart"
+    },
+    {
+        "char": "Jeff Bailey",
+        "movie": "Out of the Past",
+        "id": "/m/0k1nzj",
+        "actor": "Robert Mitchum"
+    },
+    {
+        "char": "J. J. Gittes",
+        "movie": "Chinatown",
+        "id": "/m/0jwcjk",
+        "actor": "Jack Nicholson"
+    },
+    {
+        "char": "Eddie Valiant",
+        "movie": "Who Framed Roger Rabbit",
+        "id": "/m/0k81jp",
+        "actor": "Bob Hoskins"
+    },
+    {
+        "char": "Rick Deckard",
+        "movie": "Blade Runner",
+        "id": "/m/0jvhbm",
+        "actor": "Harrison Ford"
+    },
+    {
+        "char": "Mina Harker",
+        "movie": "The League of Extraordinary Gentlemen",
+        "id": "/m/0k5ns0",
+        "actor": "Peta Wilson"
+    },
+    {
+        "char": "James Bond",
+        "movie": "Quantum of Solace",
+        "id": "/m/03hqwg_",
+        "actor": "Daniel Craig"
+    },
+    {
+        "char": "Max Rockatansky",
+        "movie": "Mad Max",
+        "id": "/m/0k09b2",
+        "actor": "Mel Gibson"
+    },
+    {
+        "char": "Josey Wales",
+        "movie": "The Outlaw Josey Wales",
+        "id": "/m/0k61jr",
+        "actor": "Clint Eastwood"
+    },
+    {
+        "char": "Tallahassee",
+        "movie": "Zombieland",
+        "id": "/m/05skv28",
+        "actor": "Woody Harrelson"
+    },
+    {
+        "char": "Bruce Wayne",
+        "movie": "The Dark Knight Rises",
+        "id": "/m/0n4g1dv",
+        "actor": "Christian Bale"
+    },
+    {
+        "char": "Bill",
+        "movie": "Kill Bill Volume 1",
+        "id": "/m/0j_fvv",
+        "actor": "David Carradine"
+    },
+    {
+        "char": "Norbit",
+        "movie": "Norbit",
+        "id": "/m/01z0rf5",
+        "actor": "Eddie Murphy"
+    },
+    {
+        "char": "Bobby Davis",
+        "movie": "Wild Hogs",
+        "id": "/m/0256cyz",
+        "actor": "Martin Lawrence"
+    },
+    {
+        "char": "Dr. Ernest Menville",
+        "movie": "Death Becomes Her",
+        "id": "/m/0jx2_4",
+        "actor": "Bruce Willis"
+    },
+    {
+        "char": "Dr. Howard Bannister",
+        "movie": "What's Up, Doc?",
+        "id": "/m/0k7_cy",
+        "actor": "Ryan O'Neal"
+    },
+    {
+        "char": "Ned Schneebly",
+        "movie": "School of Rock",
+        "id": "/m/0k2zjr",
+        "actor": "Mike White"
+    },
+    {
+        "char": "Julian Noble",
+        "movie": "The Matador",
+        "id": "/m/0k5wt7",
+        "actor": "Pierce Brosnan"
+    },
+    {
+        "char": "Ghost Dog",
+        "movie": "Ghost Dog: The Way of the Samurai",
+        "id": "/m/0jyr6h",
+        "actor": "Forest Whitaker"
+    },
+    {
+        "char": "Jimmy 'The Tulip' Tudeski",
+        "movie": "The Whole Nine Yards",
+        "id": "/m/0k6x0x",
+        "actor": "Bruce Willis"
+    },
+    {
+        "char": "Mr. Goodkat",
+        "movie": "Lucky Number Slevin",
+        "id": "/m/0k087f",
+        "actor": "Bruce Willis"
+    },
+    {
+        "char": "John Lee",
+        "movie": "The Replacement Killers",
+        "id": "/m/0k68kd",
+        "actor": "Chow Yun-Fat"
+    },
+    {
+        "char": "Il Duce",
+        "movie": "The Boondock Saints",
+        "id": "/m/0k4k6j",
+        "actor": "Billy Connolly"
+    },
+    {
+        "char": "Jason Bourne",
+        "movie": "The Bourne Identity",
+        "id": "/m/0k4kcz",
+        "actor": "Matt Damon"
+    },
+    {
+        "char": "Frank Falenczyk",
+        "movie": "You Kill Me",
+        "id": "/m/02vb7cx",
+        "actor": "Ben Kingsley"
+    },
+    {
+        "char": "Wesley Gibson",
+        "movie": "Wanted",
+        "id": "/m/02vb_l5",
+        "actor": "James McAvoy"
+    },
+    {
+        "char": "Vincent",
+        "movie": "Collateral",
+        "id": "/m/0jwkz6",
+        "actor": "Tom Cruise"
+    },
+    {
+        "char": "Austin",
+        "movie": "Not Another Teen Movie",
+        "id": "/m/0k1cs5",
+        "actor": "Eric Christian Olsen"
+    },
+    {
+        "char": "Johnny Lawrence",
+        "movie": "The Karate Kid",
+        "id": "/m/0k5jyf",
+        "actor": "William Zabka"
+    },
+    {
+        "char": "Gaston",
+        "movie": "Beauty and the Beast",
+        "id": "/m/0jv4jc",
+        "actor": "Richard White"
+    },
+    {
+        "char": "Jim",
+        "movie": "Edward Scissorhands",
+        "id": "/m/0jxqwd",
+        "actor": "Anthony Michael Hall"
+    },
+    {
+        "char": "Biff Tannen",
+        "movie": "Back to the Future",
+        "id": "/m/0jty60",
+        "actor": "Thomas F. Wilson"
+    },
+    {
+        "char": "Kurt Kelly",
+        "movie": "Heathers",
+        "id": "/m/0h5slxp",
+        "actor": "Lance Fenton"
+    },
+    {
+        "char": "Bo",
+        "movie": "Cursed",
+        "id": "/m/0jwwhw",
+        "actor": "Milo Ventimiglia"
+    },
+    {
+        "char": "Mike Dexter",
+        "movie": "Can't Hardly Wait",
+        "id": "/m/03jsnmf",
+        "actor": "Peter Facinelli"
+    },
+    {
+        "char": "Garth",
+        "movie": "Alpha and Omega",
+        "id": "/m/0d2jcym",
+        "actor": "Chris Carmack"
+    },
+    {
+        "char": "Agatha",
+        "movie": "Minority Report",
+        "id": "/m/0k0pgt",
+        "actor": "Samantha Morton"
+    },
+    {
+        "char": "Cassie Holmes",
+        "movie": "Push",
+        "id": "/m/040kc5w",
+        "actor": "Dakota Fanning"
+    },
+    {
+        "char": "Mia Thermopolis",
+        "movie": "The Princess Diaries",
+        "id": "/m/02vbfh2",
+        "actor": "Anne Hathaway"
+    },
+    {
+        "char": "Seymour Krelborn",
+        "movie": "Little Shop of Horrors",
+        "id": "/m/0k020r",
+        "actor": "Rick Moranis"
+    },
+    {
+        "char": "Paul Blart",
+        "movie": "Paul Blart: Mall Cop",
+        "id": "/m/059sm0m",
+        "actor": "Kevin James"
+    },
+    {
+        "char": "Sidney Young",
+        "movie": "How to Lose Friends & Alienate People",
+        "id": "/m/040l_q8",
+        "actor": "Simon Pegg"
+    },
+    {
+        "char": "Dennis",
+        "movie": "Run, Fat Boy, Run",
+        "id": "/m/03lvx8n",
+        "actor": "Simon Pegg"
+    },
+    {
+        "char": "Mark Bellison",
+        "movie": "The Invention of Lying",
+        "id": "/m/062xh9l",
+        "actor": "Ricky Gervais"
+    },
+    {
+        "char": "Dewey Finn",
+        "movie": "School of Rock",
+        "id": "/m/0k2zjf",
+        "actor": "Jack Black"
+    },
+    {
+        "char": "Rob Gordon",
+        "movie": "High Fidelity",
+        "id": "/m/02vb_jp",
+        "actor": "John Cusack"
+    },
+    {
+        "char": "Han Solo",
+        "movie": "Star Wars Episode IV: A New Hope",
+        "id": "/m/0k3r1_",
+        "actor": "Harrison Ford"
+    },
+    {
+        "char": "Captain Jack Sparrow",
+        "movie": "Pirates of the Caribbean: Dead Man's Chest",
+        "id": "/m/0k1xxm",
+        "actor": "Johnny Depp"
+    },
+    {
+        "char": "Peter Blood",
+        "movie": "Captain Blood",
+        "id": "/m/02vb_m3",
+        "actor": "Errol Flynn"
+    },
+    {
+        "char": "Capt. Louis Renault",
+        "movie": "Casablanca",
+        "id": "/m/05286qg",
+        "actor": "Claude Rains"
+    },
+    {
+        "char": "Abu",
+        "movie": "The Thief of Bagdad",
+        "id": "/m/0k6nkk",
+        "actor": "Sabu Dastagir"
+    },
+    {
+        "char": "Eames",
+        "movie": "Inception",
+        "id": "/m/07lkzl3",
+        "actor": "Tom Hardy"
+    },
+    {
+        "char": "Rodney Skinner",
+        "movie": "The League of Extraordinary Gentlemen",
+        "id": "/m/0k5ns5",
+        "actor": "Tony Curran"
+    },
+    {
+        "char": "Harold Hill",
+        "movie": "The Music Man",
+        "id": "/m/04hv61w",
+        "actor": "Matthew Broderick"
+    },
+    {
+        "char": "Wolverine",
+        "movie": "X-Men",
+        "id": "/m/0k86q4",
+        "actor": "Hugh Jackman"
+    },
+    {
+        "char": "Qui-Gon Jinn",
+        "movie": "Star Wars Episode I: The Phantom Menace",
+        "id": "/m/0k3qyf",
+        "actor": "Liam Neeson"
+    },
+    {
+        "char": "Obi-Wan Kenobi",
+        "movie": "Star Wars Episode I: The Phantom Menace",
+        "id": "/m/0k3qy3",
+        "actor": "Ewan McGregor"
+    },
+    {
+        "char": "Darth Vader",
+        "movie": "Star Wars Episode V: The Empire Strikes Back",
+        "id": "/m/02nwtmm",
+        "actor": "James Earl Jones"
+    },
+    {
+        "char": "Inigo Montoya",
+        "movie": "The Princess Bride",
+        "id": "/m/0k65z5",
+        "actor": "Mandy Patinkin"
+    },
+    {
+        "char": "Bill",
+        "movie": "Kill Bill Volume 1",
+        "id": "/m/0j_fvv",
+        "actor": "David Carradine"
+    },
+    {
+        "char": "Archibald Cunningham",
+        "movie": "Rob Roy",
+        "id": "/m/0k2ltj",
+        "actor": "Tim Roth"
+    },
+    {
+        "char": "Madmartigan",
+        "movie": "Willow",
+        "id": "/m/0k8378",
+        "actor": "Val Kilmer"
+    },
+    {
+        "char": "Nameless",
+        "movie": "Hero",
+        "id": "/m/0jzcr5",
+        "actor": "Jet Li"
+    },
+    {
+        "char": "Broken Sword",
+        "movie": "Hero",
+        "id": "/m/0jzcrb",
+        "actor": "Tony Leung Chiu Wai"
+    },
+    {
+        "char": "Aragorn",
+        "movie": "The Lord of the Rings: The Return of the King",
+        "id": "/m/0k5scp",
+        "actor": "Viggo Mortensen"
+    },
+    {
+        "char": "Blade",
+        "movie": "Blade",
+        "id": "/m/0jvh78",
+        "actor": "Wesley Snipes"
+    },
+    {
+        "char": "He-Man",
+        "movie": "Masters of the Universe",
+        "id": "/m/0k0h9d",
+        "actor": "Dolph Lundgren"
+    },
+    {
+        "char": "Mr. Perkins",
+        "movie": "Despicable Me",
+        "id": "/m/06zzgw6",
+        "actor": "Will Arnett"
+    },
+    {
+        "char": "Patrick Bateman",
+        "movie": "American Psycho",
+        "id": "/m/0jtfcj",
+        "actor": "Christian Bale"
+    },
+    {
+        "char": "Henry F. Potter",
+        "movie": "It's a Wonderful Life",
+        "id": "/m/0j_11c",
+        "actor": "Lionel Barrymore"
+    },
+    {
+        "char": "Norrington",
+        "movie": "Pirates of the Caribbean: Dead Man's Chest",
+        "id": "/m/0k1xyd",
+        "actor": "Jack Davenport"
+    },
+    {
+        "char": "Col. Robert Gould Shaw",
+        "movie": "Glory",
+        "id": "/m/0jyts_",
+        "actor": "Matthew Broderick"
+    },
+    {
+        "char": "Jack Aubrey",
+        "movie": "Master and Commander: The Far Side of the World",
+        "id": "/m/0k0h66",
+        "actor": "Russell Crowe"
+    },
+    {
+        "char": "Captain Nicholls",
+        "movie": "War Horse",
+        "id": "/m/0gkcn1g",
+        "actor": "Tom Hiddleston"
+    },
+    {
+        "char": "Elisabeth Burrows",
+        "movie": "Don't Say a Word",
+        "id": "/m/0jxfnl",
+        "actor": "Brittany Murphy"
+    },
+    {
+        "char": "Crazy Cora",
+        "movie": "Quigley Down Under",
+        "id": "/m/02tb5g1",
+        "actor": "Laura San Giacomo"
+    },
+    {
+        "char": "Justine",
+        "movie": "Melancholia",
+        "id": "/m/0gkj0cn",
+        "actor": "Kirsten Dunst"
+    },
+    {
+        "char": "Gina Montana",
+        "movie": "Scarface",
+        "id": "/m/0k2ysf",
+        "actor": "Mary Elizabeth Mastrantonio"
+    },
+    {
+        "char": "Jane Olsen",
+        "movie": "The Cabinet of Dr. Caligari",
+        "id": "/m/08cqh60",
+        "actor": "Lil Dagover"
+    },
+    {
+        "char": "Kevin Flynn",
+        "movie": "Tron",
+        "id": "/m/0k7cbl",
+        "actor": "Jeff Bridges"
+    },
+    {
+        "char": "Sam Flynn",
+        "movie": "Tron: Legacy",
+        "id": "/m/062y97x",
+        "actor": "Garrett Hedlund"
+    },
+    {
+        "char": "Riley Poole",
+        "movie": "National Treasure",
+        "id": "/m/0k14vc",
+        "actor": "Justin Bartha"
+    },
+    {
+        "char": "David Lightman",
+        "movie": "WarGames",
+        "id": "/m/0k7w8p",
+        "actor": "Matthew Broderick"
+    },
+    {
+        "char": "Mr. Universe",
+        "movie": "Serenity",
+        "id": "/m/0k31lb",
+        "actor": "David Krumholtz"
+    },
+    {
+        "char": "Lina Lamont",
+        "movie": "Singin' in the Rain",
+        "id": "/m/0k3b2r",
+        "actor": "Jean Hagen"
+    },
+    {
+        "char": "Sharpay Evans",
+        "movie": "High School Musical",
+        "id": "/m/0jzdz2",
+        "actor": "Ashley Tisdale"
+    },
+    {
+        "char": "Sharpay Evans",
+        "movie": "High School Musical 2",
+        "id": "/m/02vc3dx",
+        "actor": "Ashley Tisdale"
+    },
+    {
+        "char": "Sharpay Evans",
+        "movie": "High School Musical 3: Senior Year",
+        "id": "/m/03lyytc",
+        "actor": "Ashley Tisdale"
+    },
+    {
+        "char": "Margo Channing",
+        "movie": "All About Eve",
+        "id": "/m/0jt8y2",
+        "actor": "Bette Davis"
+    },
+    {
+        "char": "Norma Desmond",
+        "movie": "Sunset Boulevard",
+        "id": "/m/0k3ybb",
+        "actor": "Gloria Swanson"
+    },
+    {
+        "char": "Gaear Grimsrud",
+        "movie": "Fargo",
+        "id": "/m/0jy2x0",
+        "actor": "Peter Stormare"
+    },
+    {
+        "char": "Harlen Maguire",
+        "movie": "Road to Perdition",
+        "id": "/m/0k2ljt",
+        "actor": "Jude Law"
+    },
+    {
+        "char": "Mr. Blonde",
+        "movie": "Reservoir Dogs",
+        "id": "/m/0k2ggy",
+        "actor": "Michael Madsen"
+    },
+    {
+        "char": "Red Grant",
+        "movie": "From Russia with Love",
+        "id": "/m/04p7pxj",
+        "actor": "Robert Shaw"
+    },
+    {
+        "char": "Anton Chigurh",
+        "movie": "No Country for Old Men",
+        "id": "/m/03lgvz6",
+        "actor": "Javier Bardem"
+    },
+    {
+        "char": "Jackson Rippner",
+        "movie": "Red Eye",
+        "id": "/m/0k2dm9",
+        "actor": "Cillian Murphy"
+    },
+    {
+        "char": "Staff Sergeant Robert Barnes",
+        "movie": "Platoon",
+        "id": "/m/0k1yyt",
+        "actor": "Tom Berenger"
+    },
+    {
+        "char": "George Higgins",
+        "movie": "8mm",
+        "id": "/m/03jsz47",
+        "actor": "Chris Bauer"
+    },
+    {
+        "char": "Major Arnold Toht",
+        "movie": "Indiana Jones and the Raiders of the Lost Ark",
+        "id": "/m/02nwzyz",
+        "actor": "Ronald Lacey"
+    },
+    {
+        "char": "Mortimer Brewster",
+        "movie": "Arsenic and Old Lace",
+        "id": "/m/0jtr3s",
+        "actor": "Cary Grant"
+    },
+    {
+        "char": "Col. Paul Tanner",
+        "movie": "My Fellow Americans",
+        "id": "/m/04q604c",
+        "actor": "Everett McGill"
+    },
+    {
+        "char": "Bullet Tooth Tony",
+        "movie": "Snatch",
+        "id": "/m/0k3gbw",
+        "actor": "Vinnie Jones"
+    },
+    {
+        "char": "Waingro",
+        "movie": "Heat",
+        "id": "/m/03jrl1d",
+        "actor": "Kevin Gage"
+    },
+    {
+        "char": "Jack Wilson",
+        "movie": "Shane",
+        "id": "/m/0k34x6",
+        "actor": "Jack Palance"
+    },
+    {
+        "char": "Isaacs",
+        "movie": "Hanna",
+        "id": "/m/0gh94vc",
+        "actor": "Tom Hollander"
+    },
+    {
+        "char": "Frank",
+        "movie": "Once Upon a Time in the West",
+        "id": "/m/0k1j4j",
+        "actor": "Henry Fonda"
+    },
+    {
+        "char": "Count Dooku",
+        "movie": "Star Wars Episode II: Attack of the Clones",
+        "id": "/m/0k3q_8",
+        "actor": "Christopher Lee"
+    },
+    {
+        "char": "Aaron Hallam",
+        "movie": "The Hunted",
+        "id": "/m/03ls4jv",
+        "actor": "Benicio del Toro"
+    },
+    {
+        "char": "William Munny",
+        "movie": "Unforgiven",
+        "id": "/m/0k7l31",
+        "actor": "Clint Eastwood"
+    },
+    {
+        "char": "Ned Logan",
+        "movie": "Unforgiven",
+        "id": "/m/04xg29q",
+        "actor": "Morgan Freeman"
+    },
+    {
+        "char": "Butch Cassidy",
+        "movie": "Butch Cassidy and the Sundance Kid",
+        "id": "/m/04ky2tz",
+        "actor": "Paul Newman"
+    },
+    {
+        "char": "The Sundance Kid",
+        "movie": "Butch Cassidy and the Sundance Kid",
+        "id": "/m/0jvzx9",
+        "actor": "Robert Redford"
+    },
+    {
+        "char": "Patrick Floyd 'Pat' Garrett",
+        "movie": "Young Guns II",
+        "id": "/m/03jsysn",
+        "actor": "William Petersen"
+    },
+    {
+        "char": "Roy O'Bannon",
+        "movie": "Shanghai Noon",
+        "id": "/m/0k34yw",
+        "actor": "Owen Wilson"
+    },
+    {
+        "char": "Inigo Montoya",
+        "movie": "The Princess Bride",
+        "id": "/m/0k65z5",
+        "actor": "Mandy Patinkin"
+    },
+    {
+        "char": "Khan Noonien Singh",
+        "movie": "Star Trek II: The Wrath of Khan",
+        "id": "/m/02h8fyx",
+        "actor": "Ricardo Montalb\u00e1n"
+    },
+    {
+        "char": "Col. Douglas Mortimer",
+        "movie": "For a Few Dollars More",
+        "id": "/m/0jybsw",
+        "actor": "Lee Van Cleef"
+    },
+    {
+        "char": "Leonard",
+        "movie": "Memento",
+        "id": "/m/0k0l33",
+        "actor": "Guy Pearce"
+    },
+    {
+        "char": "Harmonica",
+        "movie": "Once Upon a Time in the West",
+        "id": "/m/0k1j46",
+        "actor": "Charles Bronson"
+    },
+    {
+        "char": "Conan the Barbarian",
+        "movie": "Conan the Destroyer",
+        "id": "/m/0jwmfk",
+        "actor": "Arnold Schwarzenegger"
+    },
+    {
+        "char": "Lon Hammond Jr.",
+        "movie": "The Notebook",
+        "id": "/m/04lsjwd",
+        "actor": "James Marsden"
+    },
+    {
+        "char": "Prince Edward",
+        "movie": "Enchanted",
+        "id": "/m/0jxvm9",
+        "actor": "James Marsden"
+    },
+    {
+        "char": "James Norrington",
+        "movie": "Pirates of the Caribbean: At World's End",
+        "id": "/m/0k1xw3",
+        "actor": "Jack Davenport"
+    },
+    {
+        "char": "Julian Mercer",
+        "movie": "Something's Gotta Give",
+        "id": "/m/0k3jn6",
+        "actor": "Keanu Reeves"
+    },
+    {
+        "char": "Michael Grates",
+        "movie": "Reality Bites",
+        "id": "/m/0k2ct2",
+        "actor": "Ben Stiller"
+    },
+    {
+        "char": "Proteus",
+        "movie": "Sinbad: Legend of the Seven Seas",
+        "id": "/m/02vc177",
+        "actor": "Joseph Fiennes"
+    },
+    {
+        "char": "George Kittredge",
+        "movie": "The Philadelphia Story",
+        "id": "/m/0h6f8kc",
+        "actor": "John Howard"
+    },
+    {
+        "char": "Roger Callaway",
+        "movie": "It Takes Two",
+        "id": "/m/0j_0s0",
+        "actor": "Steve Guttenberg"
+    },
+    {
+        "char": "Daniel \"Rudy\" Ruettiger",
+        "movie": "Rudy",
+        "id": "/m/02tb8j3",
+        "actor": "Sean Astin"
+    },
+    {
+        "char": "Brodie Bruce",
+        "movie": "Mallrats",
+        "id": "/m/07ldy8x",
+        "actor": "Jason Lee"
+    },
+    {
+        "char": "Dale Denton",
+        "movie": "Pineapple Express",
+        "id": "/m/02t9zmj",
+        "actor": "Seth Rogen"
+    },
+    {
+        "char": "Ben Stone",
+        "movie": "Knocked Up",
+        "id": "/m/0j_ks0",
+        "actor": "Seth Rogen"
+    },
+    {
+        "char": "Shaun",
+        "movie": "Shaun of the Dead",
+        "id": "/m/0k35n0",
+        "actor": "Simon Pegg"
+    },
+    {
+        "char": "Kumar Patel",
+        "movie": "Harold & Kumar Go to White Castle",
+        "id": "/m/0jz5zx",
+        "actor": "Kal Penn"
+    },
+    {
+        "char": "Kumar Patel",
+        "movie": "Harold & Kumar Escape from Guantanamo Bay",
+        "id": "/m/02vdfc2",
+        "actor": "Kal Penn"
+    },
+    {
+        "char": "Romy White",
+        "movie": "Romy and Michele's High School Reunion",
+        "id": "/m/0k2p5c",
+        "actor": "Mira Sorvino"
+    },
+    {
+        "char": "Michele Weinberger",
+        "movie": "Romy and Michele's High School Reunion",
+        "id": "/m/0k2p5j",
+        "actor": "Lisa Kudrow"
+    },
+    {
+        "char": "John Winger",
+        "movie": "Stripes",
+        "id": "/m/0k3w4y",
+        "actor": "Bill Murray"
+    },
+    {
+        "char": "Dewey Finn",
+        "movie": "School of Rock",
+        "id": "/m/0k2zjf",
+        "actor": "Jack Black"
+    },
+    {
+        "char": "Aram Finklestein",
+        "movie": "The Rebound",
+        "id": "/m/064yxrp",
+        "actor": "Justin Bartha"
+    },
+    {
+        "char": "Jay",
+        "movie": "Dogma",
+        "id": "/m/0jxdkm",
+        "actor": "Jason Mewes"
+    },
+    {
+        "char": "Bill S. Preston, Esq.",
+        "movie": "Bill & Ted's Excellent Adventure",
+        "id": "/m/0jvcqm",
+        "actor": "Alex Winter"
+    },
+    {
+        "char": "Ted \"Theodore\" Logan",
+        "movie": "Bill & Ted's Excellent Adventure",
+        "id": "/m/0jvcqg",
+        "actor": "Keanu Reeves"
+    },
+    {
+        "char": "Jeff Spicoli",
+        "movie": "Fast Times at Ridgemont High",
+        "id": "/m/0jy30b",
+        "actor": "Sean Penn"
+    },
+    {
+        "char": "Luke Shapiro",
+        "movie": "The Wackness",
+        "id": "/m/040lm10",
+        "actor": "Josh Peck"
+    },
+    {
+        "char": "Kumar Patel",
+        "movie": "Harold & Kumar Go to White Castle",
+        "id": "/m/0jz5zx",
+        "actor": "Kal Penn"
+    },
+    {
+        "char": "Harold Lee",
+        "movie": "Harold & Kumar Go to White Castle",
+        "id": "/m/0jz5zr",
+        "actor": "John Cho"
+    },
+    {
+        "char": "Dale Denton",
+        "movie": "Pineapple Express",
+        "id": "/m/02t9zmj",
+        "actor": "Seth Rogen"
+    },
+    {
+        "char": "Red",
+        "movie": "Pineapple Express",
+        "id": "/m/04zk2_k",
+        "actor": "Danny McBride"
+    },
+    {
+        "char": "Saul Silver",
+        "movie": "Pineapple Express",
+        "id": "/m/02vb3yc",
+        "actor": "James Franco"
+    },
+    {
+        "char": "Thadeous",
+        "movie": "Your Highness",
+        "id": "/m/07zm_ym",
+        "actor": "Danny McBride"
+    },
+    {
+        "char": "Fabious",
+        "movie": "Your Highness",
+        "id": "/m/07zm_zv",
+        "actor": "James Franco"
+    },
+    {
+        "char": "Marty Mikalski",
+        "movie": "The Cabin in the Woods",
+        "id": "/m/083z84s",
+        "actor": "Fran Kranz"
+    },
+    {
+        "char": "Dilios",
+        "movie": "300",
+        "id": "/m/0jsg_x",
+        "actor": "David Wenham"
+    },
+    {
+        "char": "Ed Bloom - Young",
+        "movie": "Big Fish",
+        "id": "/m/0jvbkh",
+        "actor": "Ewan McGregor"
+    },
+    {
+        "char": "Garth McCann",
+        "movie": "Secondhand Lions",
+        "id": "/m/0k309k",
+        "actor": "Michael Caine"
+    },
+    {
+        "char": "Wendy Darling",
+        "movie": "Peter Pan",
+        "id": "/m/0k1vn1",
+        "actor": "Rachel Hurd-Wood"
+    },
+    {
+        "char": "Sol",
+        "movie": "Snatch",
+        "id": "/m/03jtd2p",
+        "actor": "Lennie James"
+    },
+    {
+        "char": "Vinny",
+        "movie": "Snatch",
+        "id": "/m/03lsltz",
+        "actor": "Robbie Gee"
+    },
+    {
+        "char": "Tyrone",
+        "movie": "Snatch",
+        "id": "/m/09hy0ym",
+        "actor": "Ade"
+    },
+    {
+        "char": "Jerry Lundegaard",
+        "movie": "Fargo",
+        "id": "/m/0jy2wd",
+        "actor": "William H. Macy"
+    },
+    {
+        "char": "Vincent Vega",
+        "movie": "Pulp Fiction",
+        "id": "/m/01xlj4l",
+        "actor": "John Travolta"
+    },
+    {
+        "char": "Ted \"Theodore\" Logan",
+        "movie": "Bill & Ted's Excellent Adventure",
+        "id": "/m/0jvcqg",
+        "actor": "Keanu Reeves"
+    },
+    {
+        "char": "Bill S. Preston, Esq.",
+        "movie": "Bill & Ted's Excellent Adventure",
+        "id": "/m/0jvcqm",
+        "actor": "Alex Winter"
+    },
+    {
+        "char": "Jeff Spicoli",
+        "movie": "Fast Times at Ridgemont High",
+        "id": "/m/0jy30b",
+        "actor": "Sean Penn"
+    },
+    {
+        "char": "Chicken Joe",
+        "movie": "Surf's Up",
+        "id": "/m/02_wz7y",
+        "actor": "Jon Heder"
+    },
+    {
+        "char": "Geek",
+        "movie": "Surf's Up",
+        "id": "/m/02_wz9s",
+        "actor": "Jeff Bridges"
+    },
+    {
+        "char": "Stoney Brown",
+        "movie": "Encino Man",
+        "id": "/m/0jxvpr",
+        "actor": "Pauly Shore"
+    },
+    {
+        "char": "Crawl",
+        "movie": "Son in Law",
+        "id": "/m/02tb5qh",
+        "actor": "Pauly Shore"
+    },
+    {
+        "char": "Bud Macintosh",
+        "movie": "Bio-Dome",
+        "id": "/m/02vcwzp",
+        "actor": "Pauly Shore"
+    },
+    {
+        "char": "Lance B. Johnson",
+        "movie": "Apocalypse Now",
+        "id": "/m/02vd4sl",
+        "actor": "Sam Bottoms"
+    },
+    {
+        "char": "Dreyfus",
+        "movie": "The Pink Panther",
+        "id": "/m/0k63xm",
+        "actor": "Kevin Kline"
+    },
+    {
+        "char": "Lt. Andrew Bogomil",
+        "movie": "Beverly Hills Cop",
+        "id": "/m/045xnnw",
+        "actor": "Ronny Cox"
+    },
+    {
+        "char": "The Chief",
+        "movie": "Dirty Harry",
+        "id": "/m/0cg54hp",
+        "actor": "John Larch"
+    },
+    {
+        "char": "Ben Bradlee",
+        "movie": "All the President's Men",
+        "id": "/m/0jt9_0",
+        "actor": "Jason Robards"
+    },
+    {
+        "char": "Walter Burns",
+        "movie": "His Girl Friday",
+        "id": "/m/0jzg14",
+        "actor": "Cary Grant"
+    },
+    {
+        "char": "Eric Draven",
+        "movie": "The Crow",
+        "id": "/m/0k4td6",
+        "actor": "Brandon Lee"
+    },
+    {
+        "char": "John Preston",
+        "movie": "Equilibrium",
+        "id": "/m/0jxwq8",
+        "actor": "Christian Bale"
+    },
+    {
+        "char": "Ethan Hunt",
+        "movie": "Mission: Impossible",
+        "id": "/m/0k0qpl",
+        "actor": "Tom Cruise"
+    },
+    {
+        "char": "Inigo Montoya",
+        "movie": "The Princess Bride",
+        "id": "/m/0k65z5",
+        "actor": "Mandy Patinkin"
+    },
+    {
+        "char": "David Sumner",
+        "movie": "Straw Dogs",
+        "id": "/m/0k3v65",
+        "actor": "Dustin Hoffman"
+    },
+    {
+        "char": "Max Cady",
+        "movie": "Cape Fear",
+        "id": "/m/0jw22y",
+        "actor": "Robert De Niro"
+    },
+    {
+        "char": "Driver",
+        "movie": "Drive",
+        "id": "/m/0g4vml8",
+        "actor": "Ryan Gosling"
+    },
+    {
+        "char": "Han Solo",
+        "movie": "Star Wars Episode V: The Empire Strikes Back",
+        "id": "/m/01xpntj",
+        "actor": "Harrison Ford"
+    },
+    {
+        "char": "Captain Jack Sparrow",
+        "movie": "Pirates of the Caribbean: Dead Man's Chest",
+        "id": "/m/0k1xxm",
+        "actor": "Johnny Depp"
+    },
+    {
+        "char": "Tyler Durden",
+        "movie": "Fight Club",
+        "id": "/m/0jy5tj",
+        "actor": "Brad Pitt"
+    },
+    {
+        "char": "Mr. Nick",
+        "movie": "The Imaginarium of Dr. Parnassus",
+        "id": "/m/03kz4l5",
+        "actor": "Tom Waits"
+    },
+    {
+        "char": "Loki",
+        "movie": "Thor",
+        "id": "/m/0855mjk",
+        "actor": "Tom Hiddleston"
+    },
+    {
+        "char": "Julie Richman",
+        "movie": "Valley Girl",
+        "id": "/m/03jprhz",
+        "actor": "Deborah Foreman"
+    },
+    {
+        "char": "Cher Horowitz",
+        "movie": "Clueless",
+        "id": "/m/0jwjsy",
+        "actor": "Alicia Silverstone"
+    },
+    {
+        "char": "Romy White",
+        "movie": "Romy and Michele's High School Reunion",
+        "id": "/m/0k2p5c",
+        "actor": "Mira Sorvino"
+    },
+    {
+        "char": "Buffy Summers",
+        "movie": "Buffy the Vampire Slayer",
+        "id": "/m/0jvy0r",
+        "actor": "Kristy Swanson"
+    },
+    {
+        "char": "Elle Woods",
+        "movie": "Legally Blonde",
+        "id": "/m/0j_wm4",
+        "actor": "Reese Witherspoon"
+    },
+    {
+        "char": "Karen",
+        "movie": "White Chicks",
+        "id": "/m/045xr4n",
+        "actor": "Busy Philipps"
+    },
+    {
+        "char": "Katsumoto",
+        "movie": "The Last Samurai",
+        "id": "/m/0k5n1r",
+        "actor": "Ken Watanabe"
+    },
+    {
+        "char": "Arthur Burns",
+        "movie": "The Proposition",
+        "id": "/m/0k66rt",
+        "actor": "Danny Huston"
+    },
+    {
+        "char": "Zohan",
+        "movie": "You Don't Mess with the Zohan",
+        "id": "/m/03hqx35",
+        "actor": "Adam Sandler"
+    },
+    {
+        "char": "Broken Sword",
+        "movie": "Hero",
+        "id": "/m/0jzcrb",
+        "actor": "Tony Leung Chiu Wai"
+    },
+    {
+        "char": "Colonel Walter E. Kurtz",
+        "movie": "Apocalypse Now",
+        "id": "/m/0jtp23",
+        "actor": "Marlon Brando"
+    },
+    {
+        "char": "Master Li Mu Bai",
+        "movie": "Crouching Tiger, Hidden Dragon",
+        "id": "/m/0jwt__",
+        "actor": "Chow Yun-Fat"
+    },
+    {
+        "char": "Tool",
+        "movie": "The Expendables",
+        "id": "/m/05tb1tv",
+        "actor": "Mickey Rourke"
+    },
+    {
+        "char": "T. E. Lawrence",
+        "movie": "Lawrence of Arabia",
+        "id": "/m/0j_tdt",
+        "actor": "Peter O'Toole"
+    },
+    {
+        "char": "Horton the Elephant",
+        "movie": "Horton Hears a Who!",
+        "id": "/m/05tgl99",
+        "actor": "Jim Carrey"
+    },
+    {
+        "char": "Chico",
+        "movie": "The Magnificent Seven",
+        "id": "/m/0k5tn5",
+        "actor": "Horst Buchholz"
+    },
+    {
+        "char": "Morgan Earp",
+        "movie": "Tombstone",
+        "id": "/m/0k776f",
+        "actor": "Bill Paxton"
+    },
+    {
+        "char": "Colorado Ryan",
+        "movie": "Rio Bravo",
+        "id": "/m/0k2kqg",
+        "actor": "Ricky Nelson"
+    },
+    {
+        "char": "Tom Sawyer",
+        "movie": "The League of Extraordinary Gentlemen",
+        "id": "/m/0k5nsh",
+        "actor": "Shane West"
+    },
+    {
+        "char": "William H. 'Billy the Kid' Bonney",
+        "movie": "Young Guns II",
+        "id": "/m/03lrjk0",
+        "actor": "Emilio Estevez"
+    },
+    {
+        "char": "Jake",
+        "movie": "Silverado",
+        "id": "/m/0k39jj",
+        "actor": "Kevin Costner"
+    }
+]
