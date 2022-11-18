@@ -51,11 +51,14 @@ Use clustering methods to determine what ideal actors may look like in each movi
  
  
 ### Proposed timeline
-- Week 1: get all required/missing data about actors from wikipedia and imdb
+- Week 1: get all required/missing data about actors from wikipedia and imdb. Same for movie ratings.
 
-- Week 2: get IMDb movie ratings as another metric for success
+- Week 2: design and code the metric that will define actor profiles
 
-- Week 3:
+- Week 3: finish all correlation analysis and tabulate actor profiles results 
+
+- Week 4: implement the user interactive tool that maps a set of features to a character trope
+
  
  
 ### Organization within the team: A list of internal milestones up until project Milestone P3.
