@@ -44,11 +44,16 @@ Step 1: Data scraping, dataset preparation and pre-processing
 - Scraping wikidata to get the missing nationality, height and movie budget data.
 - Incorporate additional data into the existing dataset.
 - Implement data cleansing and compute necessary features.
+
 Step 2: General preliminary analysis using the CMU Corpus dataset.
 - Compute Basic stats (min, max, mean, median etc.) for every feature per genre. Investigate the significance of every feature per genre and determine whether particular features that dominate the actor or movie category exists.
+
 Step 3: To find the so-called ideal profile, we base ourselves on movie revenue and ratings and design a metric that balances the influence of movie revenue and ratings (upon availability).
+
 Step 4: Implement correlation analysis. Study the relationship between the movie revenue/rating and actor features and use confidence interval and T-test to ensure statistical significance.
+
 Step 5: Use clustering methods to determine what ideal actors may look like in each movie genre.
+
 Step 6: Build the GitHub site and redact the data story.
 
  
