@@ -24,6 +24,10 @@
 2. imdb scraping to get the missing height values of some actors
 
 ## Methods
+1. analyse and visualise how ever feature of an actor changes over-time in generel and per movie category
+    - is there are significant change --> 
+2. 
+
 1. Potential methods to predict success of movie based on actor's features: linear regression, ....???
 2. time series analysis
 3. basic stats to summarize data
