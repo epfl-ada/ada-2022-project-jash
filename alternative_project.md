@@ -15,6 +15,7 @@
 2. How do actors' features (e. g. age, gender, height, nationality) change over-time for each movie category? And why so?
 2. What are the features of the cast of the top 10 successful movies per year or decade? (success = highest grossing or highest rated on imdb)
 3. What are the most common features of actors per movie category?
+4. Can we map the actor profile to a particular kind of character type?
 
 
 4. Which features (e. g. gender) make it harder to get into films? Is any movie category sexist (= only favouring one gender)?
