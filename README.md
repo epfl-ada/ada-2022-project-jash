@@ -1,32 +1,64 @@
-# Analysing and predicitng movie characters (= trope)
-## Abstract: A 150 word description of the project idea and goals. What’s the motivation behind your project? What story would you like to tell, and why?
-- Project Goals
-    1. interactive tool for predicting movie character (= trope) based on features of actor
-    2. data story in connection with prediction of trope: Analysing the usage of tropes in movies overt-time and each trope's influence on the successfulness of a movie (measured in revenue of movie)
-
-## Research Questions: A list of research questions you would like to address during the project.
-
-1. Which features of an actor (age, nationality, height etc.) influence the assignment to a trope class? By how much?
-2. What are they keywords in movie summaries that are associated with each trope? Can some distribution/point cloud (per trope) be extracted?
-3. Are movie stars necessarily the most successful in their trope? (movie stars A and B could belong to trope 1, star A can be much more successful than B in the movie industry, but can B be more successful when playing characters belonging to trope 1? Is this even possible? Can we vary this question if not?)
-4. Determing "classic" statistics in our dataset is also a good idea; they can enhance our main story. Things like most successful movie stars, trend of movie genres/tropes over the years, average age of actors that made it big, most common actor backgrounds in movies, are there actors/directors that bring more value to movies on average (johnny's idea 2 in google doc) etc.
-
-## Proposed additional datasets (if any): List the additional dataset(s) you want to use (if any), and some ideas on how you expect to get, manage, process, and enrich it/them. Show us that you’ve read the docs and some examples, and that you have a clear idea on what to expect. Discuss data size and format if relevant. It is your responsibility to check that what you propose is feasible.
-1. wikidata scraping to get the missing nationality(~= ethnicity) of some actors 
-2. imdb scraping to get the missing height values of some actors
-
-## Methods
-1. Potential methods to build movie character classifier: linear regression, k-nearest neighbor, decision tree etc.
-2. We could create clusters (1 per trope) and model some soft cluster classifier that outputs the distribution of belonging to each cluster (ex: Person A has 40% chance of belonging to "Sleeping Beauty" trope, 30% to "bully"... etc)
-3. Another option would be to train a Neural Network that does the classification: we'd first have a Convolutional part where we extract the most meaningful features out of our dataset then we would input these into a Fully Connected NN to do the classification
-
-## Proposed timeline
-- At the start, group work: lay down together the basic and necessary foundations required to build whatever we will be building. Make sure everyone understands what has be done, why, and how to use it.
-- Eventually, parallel work: one part of the team works on the data story, the other on the interactive ML classifier
+# What type of actor are you?
+## Analysing the impact of actors' features on the success of movies
+### Abstract: A 150 word description of the project idea and goals. What’s the motivation behind your project? What story would you like to tell, and why?
+- Project Motivation:
   
+    As avid media consumers and wanna-be movie stars, we kept wondering whether there existed some hidden elements that spring an actor’s career into a success. Could we also make it big? And if so, would we be Bruce Lee? Or Cinderella?
+ 
+    In light of our noble cause, we will use data to break down genres and character profiles to better communicate what is the recipe for success for a good movie and a prolific actor career.
+ 
+- Project Goal:
 
-## Organization within the team: A list of internal milestones up until project Milestone P3.
-- First get all required/missing data (from wikipedia, imdb and tvtropes.org)
-- Then divide work into two: half of the group will work on the data story (like the usage of movie tropes over time etc, to be better defined), the second half will work on the classifier
+    We wish to study the relationship between actor profiles and movie genres and specifically study the progression of gender inclusivity for various genres. We propose to make an interactive tool that allows users to filter according to movie genre and display descriptive statistics to perform prescriptive analysis on what makes an ideal actor profile.
+    Our analysis aims to break down the data pertaining to each movie genre to showcase its relation to actor features and subsequently compute an ideal actor profile for that specific genre. We start by computing statistics for each genre such as: 
+    - Minimum and maximum values for age and height to convey the youngest, oldest, shortest and tallest actors
+    - The count of male and female actors for each genre
+    - Average movie revenue to signify the scale/popularity of the genre
+ 
+    We then compute the ideal profile for an actor which validates the general audience's expectations and also considers reward with monetary success. We will be using a weighted mean on the continuous actor features to compute the ideal value of a feature along with its standard deviation. These weights will depend on success metrics such as movie revenue(scaled to account for inflation) and movie ratings based on availability.
+ 
+    As a final component, we will try to create some interactive figures that will assign every combination of feature inputs to a certain character type. A user would select what features describes him best and would observe a distribution of the most likely character tropes he might belong to as an actor.
+ 
+ 
+### Research Questions: A list of research questions you would like to address during the project.
+1- Based on specific actor features values, are we able to determine the most likely TVTrope persona that the actor will fall into? We are thinking of some kind of soft clustering.
 
-## Questions for TAs (optional): Add here any questions you have for us related to the proposed project.
+2- Do some features (e. g. gender) make it harder to get into specific film genres? Is any movie category dominated by a certain actor category?
+
+3- What are the features of the cast of the top 10 successful movies per year or decade? (success = highest grossing or highest rated on IMDb)
+
+4- How do actors’ ideal features (e. g. age, gender, height, nationality) change over time for each movie category? And why so?
+
+5- What would the ideal actor look like (features-wise) per movie genre and/or character trope?
+ 
+ 
+### Proposed additional datasets (if any): List the additional dataset(s) you want to use (if any), and some ideas on how you expect to get, manage, process, and enrich it/them. Show us that you’ve read the docs and some examples, and that you have a clear idea on what to expect. Discuss data size and format if relevant. It is your responsibility to check that what you propose is feasible.
+1. We wish to find the nationality of every actor; this allows us to more accurately define actor profiles. We scrape wikidata to get the missing nationality of some actors. It is simple to do so by following the `pywiki` library documentation.
+   
+2. Same idea as above, but this time with regard to height. We scrape IMDb to get the missing height values of some actors. As there are no nice libraries to do this, we rely on good old HTML scraping.
+ 
+4. (Optional) Wikidata scraping to obtain movie budgets. It could help give a new dimension to movie profitability.
+ 
+### Methods
+1. Basic stats (min, max, mean, median etc.) for every feature per genre. Investigate the significance of every feature per genre and determine whether particular features that dominate the actor or movie category exist.
+   
+2. To find the so-called ideal profile, we base ourselves on movie revenue and ratings and design a metric that balances the influence of movie revenue and ratings (upon availability).
+   
+3. Implement correlation analysis. Study the relationship between the movie revenue/rating and actor features and use confidence interval and T-test to ensure statistical significance.
+Use clustering methods to determine what ideal actors may look like in each movie genre.
+ 
+ 
+### Proposed timeline
+- Week 1: get all required/missing data about actors from wikipedia and imdb
+
+- Week 2: get IMDb movie ratings as another metric for success
+
+- Week 3:
+ 
+ 
+### Organization within the team: A list of internal milestones up until project Milestone P3.
+Everyone got together to brainstorm the main ideas and discuss what makes more sense. Individually, we did the following:
+- John: Scraping of Wikipedia e. g. for nationality
+- Arvind: Identifying ideal actor profile per genre
+- Sid: Scraping of IMDb for height
+- Hao: Help to write the proposal
