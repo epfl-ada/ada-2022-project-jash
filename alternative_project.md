@@ -1,14 +1,14 @@
 # Analysing the impact of actors' features on the success of movies
 ## Abstract: A 150 word description of the project idea and goals. What’s the motivation behind your project? What story would you like to tell, and why?
-- Project Goals
-    1. Interactive tool for predicting influence of any actor's age, gender, height and nationality on the success of a movie (considering different success metrics; e. g. revenue, imdb votes etc.) in order to minimize risk for movie producers and investors. This tool will tell you, if you would be a good actor - or at least one that brings in the cash.
-    2.  --> give recommendation to actors based on their personal features: age, gender, height, nationality and acting experience (= {beginner, intermediate, expert})
-        1. which category is best for them based on their personal features
+- Project Goal: 
+    1. create a static page displaying data story about recommendations to actors based on their personal features: age, gender, height, nationality and acting experience (= {beginner, intermediate, expert})
+        1. which genre is best based on actor's personal features
         2. which age is best to start in general and considering the movie category?
-        3. which character type is best for actor (character type based on latent persona research)? 
+        3. which character type is best for actor?
         4. Do gender or ethnicity are hurdles or advantages for actors in the movie industry?
+    2. interactive tool which assigns any person to a movie character type (optional)
 
-        - note: best means for an actor that he or she gets picked. An actors is only picked when they add value to the movie and said movie will have high return
+    - note: best means for an actor that he or she gets picked. An actors is only picked when they add value to the movie and said movie will have high return
 
 ## Research Questions: A list of research questions you would like to address during the project.
 1. Do the features of actors (age, gender, height, nationality and acting experience) influence the success of a movie?
