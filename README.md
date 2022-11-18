@@ -17,7 +17,7 @@
  
     We then compute the ideal profile for an actor which validates the general audience's expectations and also considers reward with monetary success. We will be using a weighted mean on the continuous actor features to compute the ideal value of a feature along with its standard deviation. These weights will depend on success metrics such as movie revenue(scaled to account for inflation) and movie ratings based on availability.
  
-    As a final component, we will try to create some interactive figures that will assign every combination of feature inputs to a certain character type. A user would select what features describes him best and would observe a distribution of the most likely character tropes he might belong to as an actor.
+    As a final component, we will try to create some interactive figures that will assign every combination of feature inputs to a certain character type. A user would select what features describe him best and would observe a distribution of the most likely character tropes he might belong to as an actor.
  
  
 ### Research Questions: A list of research questions you would like to address during the project.
