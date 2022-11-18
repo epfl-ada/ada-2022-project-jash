@@ -37,7 +37,7 @@
    
 2. Same idea as above, but this time with regard to height. We scrape IMDb to get the missing height values of some actors. As there are no nice libraries to do this, we rely on good old HTML scraping.
  
-4. (Optional) Wikidata scraping to obtain movie budgets. It could help give a new dimension to movie profitability.
+3. (Optional) Wikidata scraping to obtain movie budgets. It could help give a new dimension to movie profitability.
  
 ### Methods
 Step 1: Data scraping, dataset preparation and pre-processing
@@ -54,7 +54,7 @@ Step 6: Build the GitHub site and redact the data story.
  
  
 ### Proposed timeline
-- Week 1: get all required/missing data about actors from wikipedia and imdb. Same for movie ratings.
+- Week 1: get all required/missing data about actors from Wikipedia and IMDb. Same for movie ratings.
 
 - Week 2: design and code the metric that will define actor profiles
 
@@ -67,6 +67,6 @@ Step 6: Build the GitHub site and redact the data story.
 ### Organization within the team: A list of internal milestones up until project Milestone P3.
 Everyone got together to brainstorm the main ideas and discuss what makes more sense. Individually, we did or are currently doing the following:
 - John: Scraping of Wikipedia e. g. for nationality
-- Arvind: Identifying ideal actor profile per genre
+- Arvind: Identifying the ideal actor profile per genre
 - Sid: Scraping of IMDb for height
 - Hao: Help to write the proposal
