@@ -46,6 +46,8 @@
    
 3. Implement correlation analysis. Study the relationship between the movie revenue/rating and actor features and use confidence interval and T-test to ensure statistical significance.
 Use clustering methods to determine what ideal actors may look like in each movie genre.
+
+4. Perform soft clustering analysis to determine what profiles ideal actors may belong to in each movie genre.
  
  
 ### Proposed timeline
