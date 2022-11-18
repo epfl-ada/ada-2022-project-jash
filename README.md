@@ -21,15 +21,15 @@
  
  
 ### Research Questions: A list of research questions you would like to address during the project.
-1- Based on specific actor features values, are we able to determine the most likely TVTrope persona that the actor will fall into? We are thinking of some kind of soft clustering.
+1. Based on specific actor features values, are we able to determine the most likely TVTrope persona that the actor will fall into? We are thinking of some kind of soft clustering.
 
-2- Do some features (e. g. gender) make it harder to get into specific film genres? Is any movie category dominated by a certain actor category?
+2. Do some features (e. g. gender) make it harder to get into specific film genres? Is any movie category dominated by a certain actor category?
 
-3- What are the features of the cast of the top 10 successful movies per year or decade? (success = highest grossing or highest rated on IMDb)
+3. What are the features of the cast of the top 10 successful movies per year or decade? (success = highest grossing or highest rated on IMDb)
 
-4- How do actors’ ideal features (e. g. age, gender, height, nationality) change over time for each movie category? And why so?
+4. How do actors’ ideal features (e. g. age, gender, height, nationality) change over time for each movie category? And why so?
 
-5- What would the ideal actor look like (features-wise) per movie genre and/or character trope?
+5. What would the ideal actor look like (features-wise) per movie genre and/or character trope?
  
  
 ### Proposed additional datasets (if any): List the additional dataset(s) you want to use (if any), and some ideas on how you expect to get, manage, process, and enrich it/them. Show us that you’ve read the docs and some examples, and that you have a clear idea on what to expect. Discuss data size and format if relevant. It is your responsibility to check that what you propose is feasible.
@@ -62,7 +62,7 @@ Use clustering methods to determine what ideal actors may look like in each movi
  
  
 ### Organization within the team: A list of internal milestones up until project Milestone P3.
-Everyone got together to brainstorm the main ideas and discuss what makes more sense. Individually, we did the following:
+Everyone got together to brainstorm the main ideas and discuss what makes more sense. Individually, we did or are currently doing the following:
 - John: Scraping of Wikipedia e. g. for nationality
 - Arvind: Identifying ideal actor profile per genre
 - Sid: Scraping of IMDb for height
