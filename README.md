@@ -26,7 +26,7 @@
   
 
 ## Organization within the team: A list of internal milestones up until project Milestone P3.
-- First get all required/missing datasets
+- First get all required/missing data (from wikipedia, imdb and tvtropes.org)
 - Then divide work into two: half of the group will work on the data story (like the usage of movie tropes over time etc, to be better defined), the second half will work on the classifier
 
 ## Questions for TAs (optional): Add here any questions you have for us related to the proposed project.
