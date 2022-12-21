@@ -9,7 +9,7 @@ genres_remove = ["Animation", "Biography", "Documentary","Short"]
 
 # function removes certain genres and makes additional columns for each major genre marking which category the movie belongs to 
 
-def extract_genres(dataset, genres_major=genres_major, genres_remove=genres_remove):
+def extract_genres(dataset, genres_major=genres_major, genres_remove=genres_remove, genre_keyword ='genres', year_keyword='startYear'):
 
     dataset.dropna(inplace=True)
 
@@ -18,18 +18,18 @@ def extract_genres(dataset, genres_major=genres_major, genres_remove=genres_remo
 
 
     # filter genres that we are not considering = [short, documentary, biography, animation]
-    dataset_filtered = dataset[~dataset['genres'].str.contains('|'.join(genres_remove))]
+    dataset_filtered = dataset[~dataset[genre_keyword].str.contains('|'.join(genres_remove))]
 
     # to store only movies and actors that have worked in the major genres
-    movies_major = dataset_filtered[dataset_filtered['genres'].str.contains('|'.join(genres_major))]
+    movies_major = dataset_filtered[dataset_filtered[genre_keyword].str.contains('|'.join(genres_major))]
 
     for i in genres_major:
 
-        movies_major[i] = movies_major['genres'].apply(lambda x: 1 if i in x else 0)
+        movies_major[i] = movies_major[genre_keyword].apply(lambda x: 1 if i in x else 0)
 
-    movies_major.sort_values(by ='startYear', ascending=True)
+    movies_major.sort_values(by =year_keyword, ascending=True)
 
-    for y in movies_major['genres']:
+    for y in movies_major[genre_keyword]:
 
         if type(y) == str:
             x+= y.split(",")
