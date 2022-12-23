@@ -16,6 +16,26 @@ We will explore the relationship between actor/actress experience and movie succ
   - And the leading actors that make up the cast
 
 ## Datasets
+We use the IMDB movie and actor datasets which can be found [here](https://datasets.imdbws.com/). Make sure to create and place them in your `data/` folder if you wish to rerun the code. We also supplement it with some additional data from [Kaggle](https://www.kaggle.com/datasets/PromptCloudHQ/imdb-data?resource=download).
 
 
 ## Methodology
+
+### Step 1: Data Preprocessing
+The initial datasets are quite substantial but were chopped up into pieces (one only contained movie ratings, another just actor information, and another just movie names and genres). So we first had to merge them together (all datasets with movie information were merged into one, and those with actor information into one).
+The next step was to clean up all invalid rows, being those which had missing important information, such as the release date or genre of the movie, or the birth date of the actor.
+We could now finally combine our movie and actor dataset into one, where each row was a combination of a movie and a leading actor that played in it. This netted us about 1 million rows
+
+### Step 2: Data Exploration
+
+
+
+
+## Organization within the team
+Arvind: datastory,
+
+Johnny: exploratory data analysis, finding trends inter- and intra-generations.
+
+Sid: trends through time,
+
+Hao: correlation analysis,
