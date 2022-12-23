@@ -21,7 +21,7 @@ We use the IMDB movie and actor datasets which can be found [here](https://datas
 
 ## Methodology
 
-### Step 1
+### Step 1: Preprocessing
 
 - Filter for leading actors and add column for gender
 
@@ -43,7 +43,7 @@ We filter for leading actors based on imdb's principals data which contains for 
 - Study the genre density of the movie dataset
 - Calculate the experience of actors per genre at the time of each movie release
 
-### Step 2
+### Step 2: Genre Analysis
 - Feature engineering
 
 - Genre pattern evaluation.
