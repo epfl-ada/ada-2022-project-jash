@@ -202,7 +202,7 @@ From here one we only look at the latest generation (which concerns us)
 
 
 ## Organization within the team
-Arvind: datastory,
+Arvind: website, genre trends, popularity and genre entropy analysis
 
 Johnny: exploratory data analysis, finding trends inter- and intra-generations.
 
