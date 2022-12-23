@@ -102,4 +102,4 @@ Johnny: exploratory data analysis, finding trends inter- and intra-generations.
 
 Sid: trends through time,
 
-Hao: correlation analysis,
+Hao: correlation analysis, web-scraping, organized code
