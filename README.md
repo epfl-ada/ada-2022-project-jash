@@ -1,3 +1,1 @@
-This is the new readme. 
-
-It should contain explanations/guides on how/what we did etc
+You can view the datastory [here](https://arvind6599.github.io/datastory/)
