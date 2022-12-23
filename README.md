@@ -15,3 +15,7 @@ We will explore the relationship between actor/actress experience and movie succ
   - We look at the movie genre
   - And the leading actors that make up the cast
 
+## Datasets
+
+
+## Methodology
